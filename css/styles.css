@@ -1,0 +1,116 @@
+/*
+
+This file isn't included in the final code.  It is minimized and appended to the jQuery Mobile Styles
+
+*/
+
+.ui-page-theme-a .ui-bar-inherit {
+  background-color: #056F9C;
+}
+
+.ui-page-theme-a .ui-btn {
+  margin-top: 10px;
+}
+
+.ui-collapsible .ui-btn {
+  margin-top: 0;
+}
+
+#home-img {
+  margin: auto;
+  text-align: center;
+}
+
+#home h3 {
+  text-align: center;
+}
+
+div[data-role='content'] {
+  margin-bottom: 50px;
+}
+
+#home div[data-role='content'] ul {
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+
+
+.ui-page-theme-a .ui-bar-inherit {
+  color: #ffffff;
+  text-shadow: none;
+}
+
+.speaker-image {
+  background-image: url("/img/speaker-sprite.jpg"); 
+  width: 80px;
+  height: 80px; 
+  float: left;
+}
+
+#speakers-list .ui-btn {
+  padding: 0;
+}
+
+#speakers-list h2 {
+  margin: 0;
+  line-height: 80px;
+  padding-left: 20px;
+}
+
+.speaker-bio-image {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+@media only all and (max-width:400px) {
+
+  .ui-header .ui-title img {
+    width: 100px;
+  }
+
+  #home-img {
+    width: 290px;
+    height: 180px;
+    background-image: url('/img/home-img.jpg');
+  }
+}
+
+@media only all and (min-width: 401px) and (max-width: 580px) {
+  #home-img {
+    width: 100%;
+    height: 180px;
+    background-image: url('/img/home-img-big.jpg');
+    background-repeat: no-repeat;
+  }
+}
+
+@media only all and (min-width: 581px) {
+  #home-img {
+    width: 533px;
+    height: 300px;
+    background-image: url('/img/home-img-big.jpg');
+  }
+}
+
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+  div[data-role="footer"] img {
+    width: 300px;
+    height: 25px;
+  }
+
+  div[data-role='panel'] img {
+    width: 125px;
+    height: 25px;
+  }
+
+  .appendto-hires {
+    width: 200px;
+    height: 41px;
+  }
+}
