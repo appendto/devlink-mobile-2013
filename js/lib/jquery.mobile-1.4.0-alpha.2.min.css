@@ -100,3 +100,16 @@ div[data-role='content'] {
     background-image: url('/img/home-img-big.jpg');
   }
 }
+
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+  div[data-role="footer"] img {
+    width: 300px;
+    height: 25px;
+  }
+}

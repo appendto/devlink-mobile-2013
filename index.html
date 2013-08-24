@@ -2,10 +2,15 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <title>devLink 2013</title>
   <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" />
+  <!-- iPhone SPLASHSCREEN-->
+  <link href="img/ios-startup.png" media="(device-width: 320px)" rel="apple-touch-startup-image">
+  <!-- iPhone (Retina) SPLASHSCREEN-->
+  <link href="img/ios-startup-2x.png" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+  <link href="img/ios-startup-large-2x.png"media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
   <link rel="stylesheet" href="/js/lib/jquery.mobile-1.4.0-alpha.2.min.css" />
   <script src="/js/lib/jquery.mobile-1.4.0-alpha.2.min.js"></script>
 </head>
@@ -105,6 +110,12 @@
 <script id="template-footer" type="text/html-template">
   <div data-role="footer" data-theme="b" data-position="fixed" class="ui-footer ui-footer-fixed slideup ui-bar-b">
     <h1 class="ui-title"><a href="appendto.html" data-ajax="false"><img src="/img/madebyappendto.png" alt="Made by appendTo"></a></h1>
+  </div>
+</script>
+
+<script id="template-footer-2x" type="text/html-template">
+  <div data-role="footer" data-theme="b" data-position="fixed" class="ui-footer ui-footer-fixed slideup ui-bar-b">
+    <h1 class="ui-title"><a href="appendto.html" data-ajax="false"><img src="/img/madebyappendto-2x.png" alt="Made by appendTo"></a></h1>
   </div>
 </script>
  
