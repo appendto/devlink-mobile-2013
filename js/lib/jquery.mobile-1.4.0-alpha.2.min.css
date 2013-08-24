@@ -117,4 +117,9 @@ only screen and (                min-resolution: 2dppx) {
     width: 125px;
     height: 25px;
   }
+
+  .appendto-hires {
+    width: 200px;
+    height: 41px;
+  }
 }
