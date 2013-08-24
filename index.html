@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>devLink 2013</title>
+  <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" />
+  <link rel="stylesheet" href="/js/lib/jquery.mobile-1.4.0-alpha.2.min.css" />
+  <script src="/js/lib/jquery.mobile-1.4.0-alpha.2.min.js"></script>
+</head>
+<body>
+
+
+  <div id="home" data-role="page">
+    <div data-role="header" class="ui-header ui-bar-inherit"></div>
+    <div data-role="content">
+      <div id="home-img" class="ui-corner-all"></div>
+      <h3 class="ui-title">August 28 - 30, 2013<br>Chattanooga Convention Center - Chattanooga, TN</h3>
+      <ul data-role="listview">
+        <li><a href="#agenda">Agenda</a></li>
+        <li><a href="speakers.html">Speakers</a></li>
+        <li><a href="sponsors.html" data-ajax="false">Sponsors</a></li>
+      </ul>
+    </div>
+  </div>
+
+
+  <div id="agenda" data-role="page">
+    <div data-role="header" class="ui-header ui-bar-inherit"></div>
+    <div data-role="content">
+      <h1>Agenda</h1>
+      <ul data-role="listview">
+        <li><a href="#tuesday">Tuesday, August 27</a></li>
+        <li><a href="wednesday.html" data-ajax="false">Wednesday, August 28</a></li>
+        <li><a href="thursday.html" data-ajax="false">Thursday, August 29</a></li>
+        <li><a href="friday.html" data-ajax="false">Friday, August 30</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="tuesday" data-role="page">
+    <div data-role="header" class="ui-header ui-bar-inherit"></div>
+    <div data-role="content">
+      <h1>Tuesday, Aug. 27, 2013</h1>
+      <div data-role="collapsible-set" data-inset="false" class="ui-collapsible-set">
+        <div data-role="collapsible" class="ui-collapsible ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed">
+          <h2>Workshop - JavaScript and jQuery foundations</h2>
+          <div>
+            <h2>Workshop - JavaScript and jQuery foundations</h2>
+            <h3>9AM-5PM - Meeting Room 7/8</h3>
+            <p>A solid introduction to the core concepts of jQuery-focused front-end development that shows you how to use it to interact with and manipulate sites. By the end of the day you'll feel more confident about using jQuery and be ready to start developing for the front-end.</p>
+
+            <p>During the workshop we'll cover both the basics and some intermediates of the JavaScript programming language, as well as the jQuery JavaScript library.</p>
+
+            <p><strong>Topics covered</strong></p>
+            <ul>
+              <li>JavaScript 101: Variables, Primitives, Operations, Logic</li>
+              <li>JavaScript 102: Objects, Arrays, Functions, Loops</li>
+              <li>jQuery Intro and Selections</li>
+              <li>jQuery Methods and Chaining</li>
+              <li>jQuery each, Deeper into Functions</li>
+              <li>jQuery and DOM Manipulation</li>
+            </ul>
+          </div>
+        </div>
+        <div data-role="collapsible" class="ui-collapsible ui-collapsible-themed-content ui-last-child ui-collapsible-collapsed">
+          <h2>Workshop - Advanced jQuery Techniques</h2>
+          <div>
+            <h2>Workshop - Advanced jQuery Techniques</h2>
+            <h3>9AM-5PM - Meeting Room 9/10</h3>
+            <p>It's time to realize the full potential of jQuery. Join us as we delve into advanced topics surrounding front-end web development and learn how to adopt an application architecture that is maintainable and scalable, while still keeping things simple.</p>
+
+            <p>We'll teach you how to utilize the jQuery library in the context of large-scale applications and show you how to dramatically improve performance, write cleaner and more concise code and increase maintainability and reusability. By the end of the day you should feel confident creating and maintaining advanced front-end-focused web applications.</p>
+
+            <p><strong>Topics covered</strong></p>
+            <ul>
+              <li>Event Delegation</li>
+              <li>Traversal, Filters, and Advanced Selectors</li>
+              <li>Simplifying Code with Conventions</li>
+              <li>Just-in-time Initialization Patterns</li>
+              <li>jQuery Plugins</li>
+              <li>jQuery UI Widget Factory</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div data-role="page" id="day">
+    <div data-role="header" class="ui-header ui-bar-inherit"></div>
+    <div data-role="content">
+      <h1 id="day-name"></h1>
+      <div id="agenda-items"></div>
+    </div>
+  </div>
+
+<script id="template-header" type="text/html-template">
+  <a href="#" data-role="button" data-rel="back" data-icon="arrow-l" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Back</a>
+  <h1 class="ui-title"><a href="#home"><img src="/img/logo.png" alt="devLink"></a></h1>
+  <a href="#menu-" data-role="button" data-icon="bars" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-right ui-btn ui-icon-bars ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Menu</a>
+</script>
+
+<script id="template-footer" type="text/html-template">
+  <div data-role="footer" data-theme="b" data-position="fixed" class="ui-footer ui-footer-fixed slideup ui-bar-b">
+    <h1 class="ui-title"><a href="appendto.html" data-ajax="false"><img src="/img/madebyappendto.png" alt="Made by appendTo"></a></h1>
+  </div>
+</script>
+ 
+<script id="template-panel" type="text/html-template">
+  <div data-role="panel" id="menu-" data-theme="b" data-position="right" data-display="push">
+    <ul data-role="listview">
+      <li><a href="#agenda">Agenda</a></li>
+      <li><a href="speakers.html" data-ajax="false">Speakers</a></li>
+      <li><a href="sponsors.html" data-ajax="false">Sponsors</a></li>
+      <li><p><a href="appendto.html" data-ajax="false"><img src="/img/appendto.png" alt="appendTo"></a></p></li>
+    </ul>
+  </div>
+</script>
+  
+</body>
+</html>

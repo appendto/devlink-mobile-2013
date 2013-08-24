@@ -1,0 +1,594 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>devLink 2013</title>
+  <link rel="stylesheet" href="/js/lib/jquery.mobile-1.4.0-alpha.2.min.css" />
+  <script src="/js/lib/jquery.mobile-1.4.0-alpha.2.min.js"></script>
+</head>
+<body>
+   <div id="speakers" data-role="page">
+    <div data-role="header" class="ui-header ui-bar-inherit"></div>
+    <div data-role="content">
+      <h1>Speakers</h1>
+      <form class="ui-filterable">
+        <input data-type="search" id="speakerFilter">
+      </form>
+      <ul data-role="listview" id="speakers-list" data-filter="true" data-filter-placeholder="Filter speakers..." data-input="#speakerFilter" class="ui-listview">
+        <li data-role="list-divider">Keynote Speakers</li>
+        <li class="ui-first-child">
+          <a href='bio.html#speaker-0' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: 0px 0px;' class='speaker-image'></div>
+            <h2>Scott Hanselman</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-1' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -80px 0px;' class='speaker-image'></div>
+            <h2>Nicholas Zakas</h2>
+          </a>
+        </li>
+        <li data-role="list-divider">Speakers</li>
+        <li>
+          <a href='bio.html#speaker-2' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -160px 0px;' class='speaker-image'></div>
+            <h2>Aaron Powell</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-3' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -240px 0px;' class='speaker-image'></div>
+            <h2>Alan Huffman</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-4' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -320px 0px;' class='speaker-image'></div>
+            <h2>Alan Stevens</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-5' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -400px 0px;' class='speaker-image'></div>
+            <h2>Alex Cruikshank</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-6' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -480px 0px;' class='speaker-image'></div>
+            <h2>Alex Papadimoulis</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-7' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -560px 0px;' class='speaker-image'></div>
+            <h2>Andy Leonard</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-8' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -640px 0px;' class='speaker-image'></div>
+            <h2>Ben Henderson</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-9' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -720px 0px;' class='speaker-image'></div>
+            <h2>Bob Yexley</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-10' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: 0px -80px;' class='speaker-image'></div>
+            <h2>Braden Powers</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-11' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -80px -80px;' class='speaker-image'></div>
+            <h2>Brent Schooley</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-12' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -160px -80px;' class='speaker-image'></div>
+            <h2>Brian Friesen</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-13' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -240px -80px;' class='speaker-image'></div>
+            <h2>Brian Prince</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-14' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -320px -80px;' class='speaker-image'></div>
+            <h2>Brian Sullivan</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio.html#speaker-15' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -400px -80px;' class='speaker-image'></div>
+            <h2>Burke Holland</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-16' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -480px -80px;' class='speaker-image'></div>
+            <h2>Chris Gardner</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-17' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -560px -80px;' class='speaker-image'></div>
+            <h2>Chris Meadows</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-18' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -640px -80px;' class='speaker-image'></div>
+            <h2>Chris Price</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-19' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -720px -80px;' class='speaker-image'></div>
+            <h2>Chuck Catron</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-20' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: 0px -160px;' class='speaker-image'></div>
+            <h2>Daniel Mohl</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-21' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -80px -160px;' class='speaker-image'></div>
+            <h2>Daniel Nelson</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-22' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -160px -160px;' class='speaker-image'></div>
+            <h2>Daniel Norton</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-23' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -240px -160px;' class='speaker-image'></div>
+            <h2>Danny Warren</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-24' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -320px -160px;' class='speaker-image'></div>
+            <h2>Dave Baskin</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-25' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -400px -160px;' class='speaker-image'></div>
+            <h2>Dave Purdon</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-26' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -480px -160px;' class='speaker-image'></div>
+            <h2>David Neal</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-27' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -560px -160px;' class='speaker-image'></div>
+            <h2>David Ruttka</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-28' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -640px -160px;' class='speaker-image'></div>
+            <h2>David Shepherd</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio2.html#speaker-29' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -720px -160px;' class='speaker-image'></div>
+            <h2>Devin Rader</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-30' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: 0px -240px;' class='speaker-image'></div>
+            <h2>D. Omar Villarreal</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-31' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -80px -240px;' class='speaker-image'></div>
+            <h2>Don Miller</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-32' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -160px -240px;' class='speaker-image'></div>
+            <h2>Douglas Starnes</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-33' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -240px -240px;' class='speaker-image'></div>
+            <h2>Elijah Manor</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-34' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -320px -240px;' class='speaker-image'></div>
+            <h2>Eric Greene</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-35' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -400px -240px;' class='speaker-image'></div>
+            <h2>Esteban Garcia</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-36' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -480px -240px;' class='speaker-image'></div>
+            <h2>Jason Farrell</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-37' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -560px -240px;' class='speaker-image'></div>
+            <h2>Jason Follas</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-38' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -640px -240px;' class='speaker-image'></div>
+            <h2>Jason Myers</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-39' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -720px -240px;' class='speaker-image'></div>
+            <h2>Jay Harris</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-40' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: 0px -320px;' class='speaker-image'></div>
+            <h2>Jeff Blankenburg</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-41' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -80px -320px;' class='speaker-image'></div>
+            <h2>Jeff French</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-42' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -160px -320px;' class='speaker-image'></div>
+            <h2>Jeff Strauss</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-43' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -240px -320px;' class='speaker-image'></div>
+            <h2>Jennifer Marsman</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio3.html#speaker-44' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -320px -320px;' class='speaker-image'></div>
+            <h2>Jeremiah Peschka</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-45' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -400px -320px;' class='speaker-image'></div>
+            <h2>Jeremy Likness</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-46' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -480px -320px;' class='speaker-image'></div>
+            <h2>Jerrel Blankenship</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-47' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -560px -320px;' class='speaker-image'></div>
+            <h2>Jesse Liberty</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-48' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -640px -320px;' class='speaker-image'></div>
+            <h2>Jim Cowart</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-49' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -720px -320px;' class='speaker-image'></div>
+            <h2>Joe Eames</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-50' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: 0px -400px;' class='speaker-image'></div>
+            <h2>Joe Kuemerle</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-51' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -80px -400px;' class='speaker-image'></div>
+            <h2>Joe Kutner</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-52' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -160px -400px;' class='speaker-image'></div>
+            <h2>Joel Cochran</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-53' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -240px -400px;' class='speaker-image'></div>
+            <h2>Joe Leo</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-54' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -320px -400px;' class='speaker-image'></div>
+            <h2>Joe Webb</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-55' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -400px -400px;' class='speaker-image'></div>
+            <h2>John  Paul</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-56' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -480px -400px;' class='speaker-image'></div>
+            <h2>John V. Petersen</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-57' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -560px -400px;' class='speaker-image'></div>
+            <h2>Jonathan Creamer</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-58' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -640px -400px;' class='speaker-image'></div>
+            <h2>Jordan Kasper</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio4.html#speaker-59' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -720px -400px;' class='speaker-image'></div>
+            <h2>Josh Carroll</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-60' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: 0px -480px;' class='speaker-image'></div>
+            <h2>Kevin Boles</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-61' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -80px -480px;' class='speaker-image'></div>
+            <h2>Kevin Griffin</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-62' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -160px -480px;' class='speaker-image'></div>
+            <h2>Kevin Grossnicklaus</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-63' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -240px -480px;' class='speaker-image'></div>
+            <h2>Kevin Hazzard</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-64' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -320px -480px;' class='speaker-image'></div>
+            <h2>Lauren OMeara</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-65' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -400px -480px;' class='speaker-image'></div>
+            <h2>Louis Davidson</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-66' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -480px -480px;' class='speaker-image'></div>
+            <h2>Mark Stafford</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-67' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -560px -480px;' class='speaker-image'></div>
+            <h2>Martin Laritz</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-68' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -640px -480px;' class='speaker-image'></div>
+            <h2>Matthew Crist</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-69' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -720px -480px;' class='speaker-image'></div>
+            <h2>matt winkler</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-70' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: 0px -560px;' class='speaker-image'></div>
+            <h2>Michael C. Neel</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-71' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -80px -560px;' class='speaker-image'></div>
+            <h2>Michael Crump</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-72' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -160px -560px;' class='speaker-image'></div>
+            <h2>Michael Eaton</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-73' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -240px -560px;' class='speaker-image'></div>
+            <h2>Michael Johnson</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio5.html#speaker-74' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -320px -560px;' class='speaker-image'></div>
+            <h2>Michael Wiley</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-75' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -400px -560px;' class='speaker-image'></div>
+            <h2>Mickey Gousset</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-76' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -480px -560px;' class='speaker-image'></div>
+            <h2>Mike Hostetler</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-77' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -560px -560px;' class='speaker-image'></div>
+            <h2>Mitchel Sellers</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-78' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -640px -560px;' class='speaker-image'></div>
+            <h2>Nathan Honeycutt</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-79' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -720px -560px;' class='speaker-image'></div>
+            <h2>Ondrej Balas</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-80' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: 0px -640px;' class='speaker-image'></div>
+            <h2>Patrick Chu</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-81' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -80px -640px;' class='speaker-image'></div>
+            <h2>Philip Japikse</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-82' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -160px -640px;' class='speaker-image'></div>
+            <h2>Robert Boedigheimer</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-83' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -240px -640px;' class='speaker-image'></div>
+            <h2>Robert Cain</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-84' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -320px -640px;' class='speaker-image'></div>
+            <h2>Ryan Niemeyer</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-85' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -400px -640px;' class='speaker-image'></div>
+            <h2>Sergey Barskiy</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-86' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -480px -640px;' class='speaker-image'></div>
+            <h2>Shawn Wildermuth</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-87' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -560px -640px;' class='speaker-image'></div>
+            <h2>Steven Swenson</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-88' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -640px -640px;' class='speaker-image'></div>
+            <h2>Tim Larson</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-89' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: -720px -640px;' class='speaker-image'></div>
+            <h2>Timothy Korson</h2>
+          </a>
+        </li>
+        <li>
+          <a href='bio6.html#speaker-90' data-ajax="false" class="ui-btn ui-btn-icon-right ui-icon-carat-r">
+            <div style='background-position: 0px -720px;' class='speaker-image'></div>
+            <h2>Will Robertson</h2>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <script id="template-header" type="text/html-template">
+    <a href="#" data-role="button" data-rel="back" data-icon="arrow-l" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Back</a>
+    <h1 class="ui-title"><a href="index.html#home" data-ajax="false"><img src="/img/logo.png" alt="devLink"></a></h1>
+    <a href="#menu-" data-role="button" data-icon="bars" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-right ui-btn ui-icon-bars ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Menu</a>
+  </script>
+
+  <script id="template-footer" type="text/html-template">
+    <div data-role="footer" data-theme="b" data-position="fixed" class="ui-footer ui-footer-fixed slideup ui-bar-b">
+      <h1 class="ui-title"><a href="appendto.html"><img src="/img/madebyappendto.png" alt="Made by appendTo"></a></h1>
+    </div>
+  </script>
+   
+  <script id="template-panel" type="text/html-template">
+    <div data-role="panel" id="menu-" data-theme="b" data-position="right" data-display="push">
+      <ul data-role="listview">
+        <li><a href="index.html#agenda" data-ajax="false">Agenda</a></li>
+        <li><a href="speakers.html" data-ajax="false">Speakers</a></li>
+        <li><a href="sponsors.html" data-ajax="false">Sponsors</a></li>
+        <li><p><a href="appendto.html" data-ajax="false"><img src="/img/appendto.png" alt="appendTo"></a></p></li>
+      </ul>
+    </div>
+  </script>
+</body>
+</html>
