@@ -112,4 +112,9 @@ only screen and (                min-resolution: 2dppx) {
     width: 300px;
     height: 25px;
   }
+
+  div[data-role='panel'] img {
+    width: 125px;
+    height: 25px;
+  }
 }
