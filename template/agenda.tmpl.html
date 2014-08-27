@@ -14,6 +14,7 @@
       </button>
         <a href="/talks/<%= slug(abstracts[ activity.detail_page ].title) %>.html">
           <%= abstracts[ activity.detail_page ].title %>
+          <br><small><%= activity.room %></small>
           <div class="tag-list">
             <% _(abstracts[ activity.detail_page ].tags.sort()).each( function ( tag ) { %>
               <span class="tag">
