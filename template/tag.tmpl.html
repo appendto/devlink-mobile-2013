@@ -1,7 +1,7 @@
 <h3><i class="fa fa-tag"></i> <%= tag %></h3>
 
 <ul data-role="listview" data-inset="true">
-<% _.each( talks, function ( activity ) { %>
+<% _(talks).sortBy( function ( a ) { return a.title.toLowerCase() } ).each(function ( activity ) { %>
 	<li>
 	  <a href="/talks/<%= slug(activity.title) %>.html">
 	    <%= activity.title %>
