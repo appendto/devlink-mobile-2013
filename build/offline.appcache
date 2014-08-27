@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# v3.07
+# v3.11
 
 CACHE:
 css/jquery.mobile-1.4.3.min.css
@@ -11,6 +11,23 @@ js/site.js
 js/jquery.mobile-1.4.3.min.js
 img/appendto.png
 img/logo.png
+img/keynotes/sarachipps-sm.png
+img/keynotes/mikehostetler-sm.png
+img/sponsors/CODEMagazine-logo.png
+img/sponsors/appendto-logo.png
+img/sponsors/avatar-logo.png
+img/sponsors/componentone-logo.png
+img/sponsors/compuwareapm-logo.png
+img/sponsors/ctc-logo.png
+img/sponsors/devexpress-logo.png
+img/sponsors/informit-logo.jpg
+img/sponsors/logicnp-logo.jpg
+img/sponsors/oreilly-logo.jpg
+img/sponsors/rackspace-logo.png
+img/sponsors/saucelabs-logo.png
+img/sponsors/teksystems-logo.png
+img/sponsors/telerik-logo.png
+img/sponsors/wintellect-logo.gif
 index.html
 agenda.html
 agendas/friday.html

@@ -252,3 +252,6 @@ li div.tag-list {
 .dates.ui-title small {
   display: block;
 }
+.abstract-summary > span {
+  white-space: normal;
+}
