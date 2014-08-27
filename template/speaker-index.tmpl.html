@@ -1,0 +1,16 @@
+<h3>Speakers</h3>
+<ul 
+	data-role="listview" 
+	data-autodividers="true"
+	data-inset="true" 
+	data-filter="true"
+	data-filter-placeholder="Search speakers..."
+	class="speakers-list">
+	<% _.each( speakers, function ( speaker ) { %>
+	<li>
+		<a href="/speakers/<%= speaker.slug %>.html">
+			<%= speaker.name %>
+		</a>
+	</li>
+	<% }) %>
+</ul>

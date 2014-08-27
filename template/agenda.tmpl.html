@@ -1,0 +1,40 @@
+<div class="my-agenda">
+  <label for="show-selected-<%=day.day.split( ' : ').shift().toLowerCase()%>">Show Only Selected</label>
+  <input type="checkbox" data-role="flipswitch" class="show-selected" id="show-selected-<%=day.day.split( ' : ').shift().toLowerCase()%>">
+</div>
+<h1><%= day.day.split( ' : ').shift() %> <small><%= day.day.split( ' : ').pop() %></small></h1>
+<ul data-role="listview" class="can-be-selected" data-inset="true">
+  <% _.each( day.times, function ( time ) { %>
+  <li data-role="list-divider"><%= time.start %> – <%= time.end %></li>
+  <% _(time.activities).sortBy('title').each(function( activity ) { %>
+    <% if ( activity.detail_page ) { %>
+      <li class="with-radio-button" data-slug="<%=slug(abstracts[ activity.detail_page ].title)%>">
+      <button class="radio-button">
+        <i class="fa fa-circle"></i>
+      </button>
+        <a href="/talks/<%= slug(abstracts[ activity.detail_page ].title) %>.html">
+          <%= abstracts[ activity.detail_page ].title %>
+          <div class="tag-list">
+            <% _(abstracts[ activity.detail_page ].tags.sort()).each( function ( tag ) { %>
+              <span class="tag">
+                <i class="fa fa-tag"></i> <%= tag %>
+              </span>
+            <% }) %>
+          </div>
+        </a>
+      </li>
+    <% } else { %>
+      <li class="longform-detail ui-li-static ui-body-inherit">
+        <h4><% if ( activity.icon ) { %>
+          <i class="fa fa-<%= activity.icon.replace('icon-','')%>"></i>
+          <% } %>
+          <%= activity.title %>
+        </h4>
+        <div class="abstract-summary">
+        <%= activity.summary.replace( /\/images\//, '/img/' ) %>
+        </div>
+      </li>
+    <% } %>
+  <% }) %>
+  <% }) %>
+</ul>

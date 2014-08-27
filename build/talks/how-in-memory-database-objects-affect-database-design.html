@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>How In-Memory Database Objects Affect Database Design</title>
+
+	<link rel="stylesheet" href="/css/jquery.mobile-1.4.3.min.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
+	<link rel="stylesheet" href="/css/layout.css">
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/amplify.store.min.js"></script>
+	<script src="/js/site.js"></script>
+	<script src="/js/jquery.mobile-1.4.3.min.js"></script>
+</head>
+<body>
+	<div data-role="page">
+		<div data-role="panel" id="menu-" data-theme="b" data-position="right" data-display="push">
+		  <ul data-role="listview">
+		  	<li data-role="list-divider">Agenda</li>
+		  	<li><a href="/agendas/wednesday.html">Wednesday</a></li>
+		  	<li><a href="/agendas/thursday.html">Thursday</a></li>
+		  	<li><a href="/agendas/friday.html">Friday</a></li>
+		  	<li data-role="list-divider">Browse</li>
+		    <li><a href="/speakers/">Speakers</a></li>
+		    <li><a href="/talks/">Talks</a></li>
+		    <li><a href="/tags/">Tags</a></li>
+		    <li><a href="/sponsors/">Sponsors</a></li>
+		    <li><p><a href="appendto.html" data-ajax="false"><img src="/img/appendto.png" alt="appendTo"></a></p></li>
+		  </ul>
+		</div>
+		<div data-role="header" class="ui-header ui-bar-inherit">
+	<a href="#" data-role="button" data-rel="back" data-icon="arrow-l" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Back</a>
+	<h1 class="ui-title"><a href="/index.html" data-ajax="false"><img src="/img/logo.png" alt="devLink"></a></h1>
+	<a href="#menu-" data-role="button" data-icon="bars" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-right ui-btn ui-icon-bars ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Menu</a>
+</div>
+<div data-role="main" class="ui-content">
+	<h2>How In-Memory Database Objects Affect Database Design</h2>
+<p>With SQL Server 2014, Microsoft has added a major new feature to help optimize OLTP database implementations by persisting your data primarily in RAM. Of course it isn&apos;t that simple, internally everything that uses this new feature is completely new.  While the internals of this feature may be foreign to you, accessing the data that uses the structures very much resembles T-SQL as you already know it. As such, the first important question for the average developer will be how to adapt an existing application to make use of the technology to achieve enhanced performance. In this session, I will start with a normalized database, and adapt the logical and physical database model/implementation in several manners, performance testing the tables and code changes along the way.</p>
+
+
+<div class="tags">
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/database-design.html">
+      <i class="fa fa-tag"></i> Database Design
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/in-memory-oltp.html">
+      <i class="fa fa-tag"></i> In Memory OLTP
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/sql-server.html">
+      <i class="fa fa-tag"></i> SQL Server
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/t-sql.html">
+      <i class="fa fa-tag"></i> T-SQL
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/general-audience.html">
+      <i class="fa fa-tag"></i> General Audience
+    </a>
+  
+</div>
+
+<div>
+<img src="http://www.gravatar.com/avatar/4b9891e4c34074810c4f2dbf19d96c73?d=mm&r=pg&s=200" alt="Louis Davidson" class="speaker-photo"/>
+<h3>Louis Davidson</h3>
+<p>Louis Davidson has worked in the IT industry for over 15 years as a corporate database developer and architect. He has been a Microsoft SQL Server MVP for 10 years and has written five books on database design. He has a bachelor&apos;s degree in Computer Science from the University of Tennessee at Chattanooga. You can read more about Louis at http://drsql.org.</p>
+</div>
+
+
+<div>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://sqlblog.com/blogs/louis_davidson/default.aspx"><i class="fa fa-globe"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://www.linkedin.com/in/louisdavidson/"><i class="fa fa-linkedin"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://twitter.com/drsql   "><i class="fa fa-twitter"></i></a>
+
+</div>
+</div>
+	</div>
+</body>
+</html>

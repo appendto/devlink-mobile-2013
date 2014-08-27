@@ -1,0 +1,24 @@
+<h2><%= abstract.title %></h2>
+<p><%= abstract.summary %></p>
+
+
+<div class="tags">
+  <% _(abstract.tags.sort()).map( function ( tag ) { return tag.indexOf(',') > -1 ? tag.split(/, ?/g) : tag; }).flatten().each( function ( tag ) { %>
+    <a class="ui-btn ui-btn-inline" href="/tags/<%= slug(tag) %>.html">
+      <i class="fa fa-tag"></i> <%= humanize(tag) %>
+    </a>
+  <% }) %>
+</div>
+
+<div>
+<img src="<%= abstract.speaker.photo %>" alt="<%= abstract.speaker.name %>" class="speaker-photo"/>
+<h3><%= abstract.speaker.name %></h3>
+<p><%= abstract.speaker.bio %></p>
+</div>
+
+
+<div>
+<% _.each( abstract.speaker.social, function( item ) { %>
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="<%= item.url %>"><i class="fa fa-<%= item.type %>"></i></a>
+<%}) %>
+</div>

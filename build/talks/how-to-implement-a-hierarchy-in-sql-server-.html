@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>How to Implement a Hierarchy in SQL Server </title>
+
+	<link rel="stylesheet" href="/css/jquery.mobile-1.4.3.min.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
+	<link rel="stylesheet" href="/css/layout.css">
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/amplify.store.min.js"></script>
+	<script src="/js/site.js"></script>
+	<script src="/js/jquery.mobile-1.4.3.min.js"></script>
+</head>
+<body>
+	<div data-role="page">
+		<div data-role="panel" id="menu-" data-theme="b" data-position="right" data-display="push">
+		  <ul data-role="listview">
+		  	<li data-role="list-divider">Agenda</li>
+		  	<li><a href="/agendas/wednesday.html">Wednesday</a></li>
+		  	<li><a href="/agendas/thursday.html">Thursday</a></li>
+		  	<li><a href="/agendas/friday.html">Friday</a></li>
+		  	<li data-role="list-divider">Browse</li>
+		    <li><a href="/speakers/">Speakers</a></li>
+		    <li><a href="/talks/">Talks</a></li>
+		    <li><a href="/tags/">Tags</a></li>
+		    <li><a href="/sponsors/">Sponsors</a></li>
+		    <li><p><a href="appendto.html" data-ajax="false"><img src="/img/appendto.png" alt="appendTo"></a></p></li>
+		  </ul>
+		</div>
+		<div data-role="header" class="ui-header ui-bar-inherit">
+	<a href="#" data-role="button" data-rel="back" data-icon="arrow-l" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Back</a>
+	<h1 class="ui-title"><a href="/index.html" data-ajax="false"><img src="/img/logo.png" alt="devLink"></a></h1>
+	<a href="#menu-" data-role="button" data-icon="bars" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-right ui-btn ui-icon-bars ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Menu</a>
+</div>
+<div data-role="main" class="ui-content">
+	<h2>How to Implement a Hierarchy in SQL Server </h2>
+<p>One of the most common structures you will come across in the real world is a hierarchy (either a single parent &quot;tree&quot; or a multi-parent &quot;graph&quot;). Many systems will implement the obvious examples, such as a corporate managerial structure or a bill of materials. It turns out that almost any many-to-many relationship can be used as a hierarchy to find the relationship of parent rows to child rows (for example, the relationship of actors to movies they&#x2019;ve been in). In this session, we&#x2019;ll discuss several different implementations of hierarchies that you can use to optimize your hierarchy implementations and put into practice immediately, with ready-made T-SQL examples.</p>
+
+
+<div class="tags">
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/database-design.html">
+      <i class="fa fa-tag"></i> Database Design
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/hierarchies.html">
+      <i class="fa fa-tag"></i> Hierarchies
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/sql-server.html">
+      <i class="fa fa-tag"></i> SQL Server
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/t-sql.html">
+      <i class="fa fa-tag"></i> T-SQL
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/intermediate.html">
+      <i class="fa fa-tag"></i> Intermediate
+    </a>
+  
+</div>
+
+<div>
+<img src="http://www.gravatar.com/avatar/4b9891e4c34074810c4f2dbf19d96c73?d=mm&r=pg&s=200" alt="Louis Davidson" class="speaker-photo"/>
+<h3>Louis Davidson</h3>
+<p>Louis Davidson has worked in the IT industry for over 15 years as a corporate database developer and architect. He has been a Microsoft SQL Server MVP for 10 years and has written five books on database design. He has a bachelor&apos;s degree in Computer Science from the University of Tennessee at Chattanooga. You can read more about Louis at http://drsql.org.</p>
+</div>
+
+
+<div>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://sqlblog.com/blogs/louis_davidson/default.aspx"><i class="fa fa-globe"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://www.linkedin.com/in/louisdavidson/"><i class="fa fa-linkedin"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://twitter.com/drsql   "><i class="fa fa-twitter"></i></a>
+
+</div>
+</div>
+	</div>
+</body>
+</html>

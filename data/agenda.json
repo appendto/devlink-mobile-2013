@@ -1,0 +1,2065 @@
+[
+	{
+		"id": 1,
+		"day": "Tuesday : August 26, 2014",
+		"times": [
+			{
+				"id": 2609001700,
+				"start": "9:00 AM",
+				"end": "5:00 PM",
+				"conferenceDayId": 1,
+				"activities": [
+					{
+						"conferenceTimeId": "2609001700",
+						"createdAt": "2014-04-18T03:12:33.864Z",
+						"detail_page": "",
+						"icon": "icon-laptop",
+						"room": "Meeting Room 7/8",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "<span>AngularJS is a one of the most popular MVC frameworks in building a front-end application, and the best place to start learning about it is at the beginning. In this class we’ll lay the groundwork for learning AngularJS by introducing scope for data-binding, controllers for MVC on the client, events, filters to format output, directives to extend the HTML vocabulary, modules to group code, services to provide application-wide functionality, and routes to enable Single Page Applications (SPA).</span>\r\n<ul>\r\n    <li class=\"col-md-6\">\r\n        <ul>\r\n            <li><h5>TOPICS COVERED</h5></li>\r\n            <li>Introduction to AngularJS</li>\r\n            <li>Controllers and Markup</li>\r\n            <li>Creating and Using Services</li>\r\n            <li>Routing</li>\r\n            <li>Creating Custom Directives</li>\r\n        </ul>\r\n    </li>\r\n    <li class=\"col-md-6\">\r\n        <h5>Workshop is hands-on, laptops are recommended</h5>\r\n\r\n        Presented by <a href=\"http://appendto.com\"><img src=\"/images/sponsors/appendto-logo.png\"/></a>\r\n                <div class=\"pricing-footer\">\r\n                    <form action=\"http://devlink2014.eventbrite.com\">\r\n                        <button class=\"btn-u btn-u-lg btn-u-blue\" type=\"submit\">Register Now</button>\r\n                    </form>\r\n                </div>\r\n    </li>\r\n</ul>",
+						"title": "AngularJS Fundamentals",
+						"updatedAt": "2014-07-20T17:09:58.048Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53509821dcf7cc0b00d7d8c3"
+					},
+					{
+						"conferenceTimeId": "2609001700",
+						"createdAt": "2014-05-16T03:35:29.407Z",
+						"detail_page": "",
+						"icon": "icon-laptop",
+						"room": "Meeting Room 2",
+						"summary": "<span> Microsoft is committed to moving forward in a mobile-first cloud-first world and Microsoft Azure is a big part of that commitment.  Microsoft Azure is a set of independent services used to create secure, reliable, scalable, and highly available applications in the cloud. This class introduces the various components and services explaining what they each do and how they relate to one another. We will cover Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) as well as how the two can interact and integrate with one another.  This class will take you from not knowing anything about Microsoft Azure to being able to confidently develop and deploy applications on the platform.</span>\r\n<ul>\r\n    <li class=\"col-md-6\">\r\n        <ul>\r\n            <li><h5>TOPICS COVERED</h5></li>\r\n            <li>Azure Management Dashboard and Developer Tools</li>\r\n            <li> Azure Websites </li>\r\n            <li> Cloud Services </li>\r\n            <li> Mobile Services </li>\r\n            <li> Azure Data Storage Options </li>\r\n            <li> Virtual Machines </li>\r\n            <li>Other Software Services (Active Directory, Authentication, etc)</li>\r\n        </ul>\r\n    </li>\r\n    <li class=\"col-md-6\">\r\n        <h5>Workshop is hands-on, laptops are recommended</h5>\r\n         Presented by <a href=\"http://wintellect.com\"><img src=\"/images/sponsors/wintellect-logo.gif\"/></a>\r\n                <div class=\"pricing-footer\">\r\n                    <form action=\"http://devlink2014.eventbrite.com\">\r\n                        <button class=\"btn-u btn-u-lg btn-u-blue\" type=\"submit\">Register Now</button>\r\n                    </form>\r\n                </div>\r\n    </li>\r\n</ul>",
+						"title": "Getting Started with Microsoft Azure",
+						"updatedAt": "2014-07-20T17:10:24.418Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53758781e394000b00435d80"
+					},
+					{
+						"conferenceTimeId": "2609001700",
+						"detail_page": "",
+						"icon": "icon-laptop",
+						"room": "Meeting Room 9/10",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "<span>A solid introduction to the core concepts of jQuery-focused front-end development that shows you how to interact with and manipulate sites. By the end of the day you’ll feel more confident about using jQuery and be ready to start developing for the front-end.\r\nDuring the workshop we’ll cover both the basics and some intermediates of the JavaScript programming language, as well as the jQuery JavaScript library.</span>\r\n<ul>\r\n    <li class=\"col-md-6\">\r\n        <ul>\r\n            <li><h5>TOPICS COVERED</h5></li>\r\n            <li>JavaScript 101</li>\r\n            <li>jQuery Intro and Selections</li>\r\n            <li>jQuery Methods and Chaining</li>\r\n            <li>jQuery each, Deeper into Functions</li>\r\n            <li>jQuery and DOM Manipulation</li>\r\n            <li>Document.Ready</li>\r\n            <li>Events</li>\r\n            <li>Ajax</li>\r\n        </ul>\r\n    </li>\r\n    <li class=\"col-md-6\">\r\n        <h5>Workshop is hands-on, laptops are recommended</h5>\r\n        Presented by <a href=\"http://appendto.com\"><img src=\"/images/sponsors/appendto-logo.png\"/></a>                <div class=\"pricing-footer\">\r\n                    <form action=\"http://devlink2014.eventbrite.com\">\r\n                        <button class=\"btn-u btn-u-lg btn-u-blue\" type=\"submit\">Register Now</button>\r\n                    </form>\r\n                </div>\r\n    </li>\r\n</ul>",
+						"title": "JavaScript and jQuery Foundations",
+						"updatedAt": "2014-07-20T17:10:38.465Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324b9de4b08a2cfdd338c5"
+					},
+					{
+						"conferenceTimeId": "2609001700",
+						"createdAt": "2014-04-18T03:11:09.269Z",
+						"detail_page": "",
+						"icon": "icon-laptop",
+						"room": "Meeting Room 16/17",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "<span>Creating a website today requires lots of tools. These tools are becoming increasingly common in web development and can be used to help you in any web project of your own. Tools like Git for version control, Sass for extending CSS, JSHint for detecting errors or potential problems with your code, UglifyJS to minify and compress your code, Bower to manage your front-end dependencies, QUnit to run tests against your code and GruntJS to run all these tasks automatically and together at the same time.\r\n<br/>\r\nIn this class, attendees will learn the foundations for implementing web projects. We’ll show you how to use each of these tools and then how to tie them all together with GruntJS to make managing the tasks that each of these tools need a breeze.</span>\r\n<ul>\r\n    <li class=\"col-md-6\">\r\n        <ul>\r\n            <li><h5>TOPICS COVERED</h5></li>\r\n            <li>Understanding Git</li>\r\n            <li>Sass</li>\r\n            <li>JSHint/JSLint</li>\r\n            <li>UglifyJS</li>\r\n            <li>Bower</li>\r\n            <li>Qunit</li>\r\n            <li>GruntJS</li>\r\n        </ul>\r\n    </li>\r\n    <li class=\"col-md-6\">\r\n        <h5>Workshop is hands-on, laptops are recommended</h5>\r\n\r\n        Presented by <a href=\"http://appendto.com\"><img src=\"/images/sponsors/appendto-logo.png\"/></a>\r\n                <div class=\"pricing-footer\">\r\n                    <form action=\"http://devlink2014.eventbrite.com\">\r\n                        <button class=\"btn-u btn-u-lg btn-u-blue\" type=\"submit\">Register Now</button>\r\n                    </form>\r\n                </div>\r\n    </li>\r\n</ul>",
+						"title": "Web Developers Workflow",
+						"updatedAt": "2014-07-20T17:10:53.196Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535097cddcf7cc0b00d7d8c2"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"day": "Wednesday : August 27, 2014",
+		"times": [
+			{
+				"id": 2707300830,
+				"start": "7:30 AM",
+				"end": "8:30 AM",
+				"conferenceDayId": 2,
+				"activities": [
+					{
+						"conferenceTimeId": "2707300830",
+						"detail_page": "",
+						"icon": "icon-food",
+						"room": "Exhibit Hall C",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "",
+						"title": "Breakfast",
+						"updatedAt": "2014-07-20T17:28:25.206Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324bd7e4b08a2cfdd338c6"
+					}
+				]
+			},
+			{
+				"id": 2708301000,
+				"start": "8:30 AM",
+				"end": "10:00 AM",
+				"conferenceDayId": 2,
+				"activities": [
+					{
+						"conferenceTimeId": "2708301000",
+						"createdAt": "2014-03-26T03:54:31.381Z",
+						"detail_page": "",
+						"icon": "icon-bullhorn",
+						"room": "Meeting Rooms E, F, G",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "<div class=\"col-md-2\">\r\n<img class=\"img-responsive\" src=\"/images/keynotes/sarachipps-sm.png\"/>   \r\n</div>                  \r\n<div class=\"col-md-6\">\r\n            <h4>Sara Chipps</h4>\r\n            <p>Sara Chipps is a JavaScript developer based in NYC. She’s the CTO of <a href=\"http://flatironschool.com\" title=\"Flatiron School\" target=\"_blank\">Flatiron School</a>, her free time she works on wearables for <a href=\"http://jewliebots.com\" title=\"Jewliebots\" target=\"_blank\">http://jewliebots.com</a> and hacks on <a href=\"http://nodebots.com\" title=\"Nodebots\" target=\"_blank\">Nodebots</a>.</p>           \r\n        </div>",
+						"title": "Featured Keynote",
+						"updatedAt": "2014-07-25T13:14:07.891Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324f778dfa040b0096ad16"
+					}
+				]
+			},
+			{
+				"id": 2710151115,
+				"start": "10:15 AM",
+				"end": "11:30 AM",
+				"conferenceDayId": 2,
+				"activities": [
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-04-22T01:02:05.244Z",
+						"detail_page": "5324bef5cee4610b00287bad",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "Beginning NodeJS Web Development",
+						"updatedAt": "2014-07-20T17:33:49.245Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355bf8de5556f0b00ce456b"
+					},
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-04-22T01:04:52.982Z",
+						"detail_page": "53332dce5a313b0b0044f196",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "Beyond the Box: Distributed Programming with ZeroMQ",
+						"updatedAt": "2014-07-20T17:12:55.232Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355c034f38e120b00ee6dd3"
+					},
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-05-10T18:25:43.614Z",
+						"detail_page": "5362bcd69e132a0b009e01ab",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Bower In Practice: A Package Manager for Web Developers",
+						"updatedAt": "2014-07-20T17:33:34.491Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536e6f274820fe0b00f89cd4"
+					},
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-04-22T00:57:54.977Z",
+						"detail_page": "5319db1585f6df0b002cc0cf",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Building Large Scalable Realtime Applications With Meteor",
+						"updatedAt": "2014-07-20T17:34:50.836Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355be92e5556f0b00ce456a"
+					},
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-04-23T00:08:50.033Z",
+						"detail_page": "53002b475aff120b0073bf71",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "Clean Code: Writing Code for Humans",
+						"updatedAt": "2014-07-20T17:13:33.732Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570492e5556f0b00ce45a0"
+					},
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-04-22T01:03:14.623Z",
+						"detail_page": "5332f5c65a313b0b0044f193",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "Cloud Backend for your Mobile Apps!",
+						"updatedAt": "2014-07-20T17:13:44.810Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355bfd2e5556f0b00ce456c"
+					},
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-04-22T00:56:25.897Z",
+						"detail_page": "534c12d18cecea0b00f944f0",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"title": "Dependable Cloud Architecture",
+						"updatedAt": "2014-07-20T17:13:59.944Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355be39f38e120b00ee6dd1"
+					},
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-04-22T01:04:04.655Z",
+						"detail_page": "5304c1d83cc0aa0b00161792",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "Lightweight .NET Web Apps with Katana and Nancy",
+						"updatedAt": "2014-07-20T17:14:40.587Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355c004e5556f0b00ce456d"
+					},
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-04-23T00:20:58.263Z",
+						"detail_page": "53381d76571a660b00b28d2f",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": "More Cache for Less Cash",
+						"updatedAt": "2014-08-12T11:02:37.440Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357076ae5556f0b00ce45a8"
+					},
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-04-22T00:53:41.913Z",
+						"detail_page": "533b1052fa4c470b00ad4380",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "SQL Server Internals and Architecture",
+						"updatedAt": "2014-07-20T17:35:42.431Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355bd95e5556f0b00ce4569"
+					},
+					{
+						"conferenceTimeId": "2710151115",
+						"createdAt": "2014-04-22T00:55:30.700Z",
+						"detail_page": "5304bddf3cc0aa0b0016178d",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "What's New for ALM in Visual Studio 2013 and Team Foundation Server 2013",
+						"updatedAt": "2014-07-20T17:29:01.345Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355be02f38e120b00ee6dd0"
+					}
+				]
+			},
+			{
+				"id": 2711301300,
+				"start": "11:30 AM",
+				"end": "1:00 PM",
+				"conferenceDayId": 2,
+				"activities": [
+					{
+						"conferenceTimeId": "2711301300",
+						"detail_page": "",
+						"icon": "icon-food",
+						"room": "Exhibit Hall C",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "",
+						"title": "Lunch",
+						"updatedAt": "2014-07-20T18:49:36.211Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324c60e4b08a2cfdd338c8"
+					}
+				]
+			},
+			{
+				"id": 2713001415,
+				"start": "1:00 PM",
+				"end": "2:15 PM",
+				"conferenceDayId": 2,
+				"activities": [
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-04-22T01:47:47.582Z",
+						"detail_page": "5304bd09be0abe0b0063b5b5",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": " Web APIs with Node.js and Express",
+						"updatedAt": "2014-07-20T17:38:22.124Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355ca43e5556f0b00ce456f"
+					},
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-04-22T01:46:38.546Z",
+						"detail_page": "5325a11084a0770b00aa9d00",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Advanced Angular Tips and Tricks",
+						"updatedAt": "2014-07-20T17:36:13.374Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355c9fef38e120b00ee6dd4"
+					},
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-04-22T02:22:51.938Z",
+						"detail_page": "5338218c571a660b00b28d31",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "Automating Your Microsoft Azure Environment",
+						"updatedAt": "2014-07-20T17:39:14.438Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d27be5556f0b00ce4574"
+					},
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-04-22T01:49:04.254Z",
+						"detail_page": "52fd7c8abd9aeb0b004f91d5",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "Automating database migrations",
+						"updatedAt": "2014-07-20T17:37:45.675Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355ca90e5556f0b00ce4570"
+					},
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-04-22T01:46:01.538Z",
+						"detail_page": "5347235edb0d560b00fc5020",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Confessions of a Remote Worker",
+						"updatedAt": "2014-07-20T17:35:59.352Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355c9d9e5556f0b00ce456e"
+					},
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-04-22T01:50:22.758Z",
+						"detail_page": "5331f7f29b8c8d0b0091d0fe",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "Consuming Data with F#'s Type Providers",
+						"updatedAt": "2014-07-20T17:38:49.401Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355cadef38e120b00ee6dd5"
+					},
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-08-26T01:19:43.540Z",
+						"detail_page": "53fbe05ce4b006793a8c525e",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "Event Sourcing and CQRS with a Fairy Tale Ending",
+						"updatedAt": "2014-08-26T01:20:15.635Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53fbe0afcdb14a0b005b9a97"
+					},
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-04-22T01:52:54.681Z",
+						"detail_page": "5310a3607599050b00d4c312",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "Intro to Reversing",
+						"updatedAt": "2014-07-20T17:37:57.296Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355cb76e5556f0b00ce4572"
+					},
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-04-22T01:53:31.671Z",
+						"detail_page": "531fec4bc5c5b10b00fac39a",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"title": "Master Windows 8.1 Location and Proximity Capabilities",
+						"updatedAt": "2014-07-20T17:38:39.609Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355cb9be5556f0b00ce4573"
+					},
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-04-22T02:23:26.669Z",
+						"detail_page": "5324bf1984a0770b00aa9cfc",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "iOS for the .Net Web Guy",
+						"updatedAt": "2014-07-20T17:37:17.163Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d29ef38e120b00ee6dd7"
+					},
+					{
+						"conferenceTimeId": "2713001415",
+						"createdAt": "2014-05-10T18:33:23.961Z",
+						"detail_page": "5361c274cbc5800b00411cef",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "jQuery-free JavaScript",
+						"updatedAt": "2014-08-09T22:37:44.671Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536e70f31661fe0b009b6075"
+					}
+				]
+			},
+			{
+				"id": 2714301545,
+				"start": "2:30 PM",
+				"end": "3:45 PM",
+				"conferenceDayId": 2,
+				"activities": [
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-04-22T02:40:41.654Z",
+						"detail_page": "532c57c4c2a75e0b00b1f227",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": "Angular for .NET Developers",
+						"updatedAt": "2014-07-20T17:40:01.397Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d6a9f38e120b00ee6ddd"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-04-22T02:42:45.594Z",
+						"detail_page": "532ecd63aaf9340b004f25fa",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "Build Angular applications using TypeScipt - Part 1",
+						"updatedAt": "2014-07-20T17:42:31.047Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d725f38e120b00ee6ddf"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-04-22T02:37:35.813Z",
+						"detail_page": "5307d3af3f0ba80b00eae543",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "Deprecating the Password: Email-only authentication",
+						"updatedAt": "2014-07-20T17:42:21.790Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d5eff38e120b00ee6ddc"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-05-10T18:30:24.111Z",
+						"detail_page": "5361c2a4cbc5800b00411cf0",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Grunt-ify Your Front-End Development",
+						"updatedAt": "2014-07-20T17:40:38.623Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536e70401661fe0b009b6074"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-04-22T02:28:16.419Z",
+						"detail_page": "530e7efe05a0950b00601567",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 16/17",
+						"summary": "",
+						"title": "Instant Apps with VS Online, Git, and Azure",
+						"updatedAt": "2014-07-20T17:42:53.373Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d3c0e5556f0b00ce4576"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-07-17T02:34:24.329Z",
+						"detail_page": "53c735f8e4b04af47f662e31",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "Modern User Experiences: An Entry Point for Developers",
+						"updatedAt": "2014-07-20T17:40:54.934Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53c73630d40ebb0b00e9fe95"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-04-22T02:32:25.449Z",
+						"detail_page": "5331e1dac90cf40b00a8db54",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "Practical Machine Learning – Recommender Engine and Anomaly Detection",
+						"updatedAt": "2014-07-20T17:41:06.306Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d4b9f38e120b00ee6dda"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-04-22T02:29:15.248Z",
+						"detail_page": "53221e251d6bb40b002fecfa",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "Productive Node.js For .NET Developers",
+						"updatedAt": "2014-07-20T17:39:52.014Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d3fbf38e120b00ee6dd8"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-04-22T02:31:07.506Z",
+						"detail_page": "533dae88348fc40b006cfb00",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Stepping Up – Taking the leap into technical leadership",
+						"updatedAt": "2014-07-20T17:42:04.589Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d46bf38e120b00ee6dd9"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-04-22T02:41:34.624Z",
+						"detail_page": "534ee6b33519f90b00342267",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "Unit Testing SQL Server",
+						"updatedAt": "2014-07-20T17:41:50.147Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d6def38e120b00ee6dde"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-04-22T02:30:14.515Z",
+						"detail_page": "530f447d88e9cd0b00f906b4",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"title": "Using MAMP for Web Development",
+						"updatedAt": "2014-07-20T17:42:44.087Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d436e5556f0b00ce4577"
+					},
+					{
+						"conferenceTimeId": "2714301545",
+						"createdAt": "2014-04-22T02:39:27.802Z",
+						"detail_page": "53298dafe212e00b0097feeb",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "Windows Azure Storage Revisited: Using Blobs and Tables in the Real World",
+						"updatedAt": "2014-07-20T17:40:23.539Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355d65fe5556f0b00ce4579"
+					}
+				]
+			},
+			{
+				"id": 2716001715,
+				"start": "4:00 PM",
+				"end": "5:15 PM",
+				"conferenceDayId": 2,
+				"activities": [
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:06:25.122Z",
+						"detail_page": "532ecdb4aaf9340b004f25fb",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "Build Angular applications using TypeScipt - Part 2",
+						"updatedAt": "2014-07-20T17:43:46.473Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f5f1f38e120b00ee6dea"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:00:03.340Z",
+						"detail_page": "530e725a05a0950b00601561",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Build Mobile Web Apps with ASPNET MVC and jQuery Mobile",
+						"updatedAt": "2014-07-20T17:41:16.269Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f474e5556f0b00ce457a"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:05:42.124Z",
+						"detail_page": "530e7da005a0950b00601566",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "Delivering a Knockout Punch",
+						"updatedAt": "2014-07-20T17:44:20.572Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f5c6f38e120b00ee6de9"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:01:42.901Z",
+						"detail_page": "5305082d3cc0aa0b001617a5",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "Design Patterns for Distributed Systems",
+						"updatedAt": "2014-07-20T17:46:13.478Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f4d6f38e120b00ee6de4"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:02:56.221Z",
+						"detail_page": "531a270b9330510b000ba141",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 16/17",
+						"summary": "",
+						"title": "Get Kinect-ed",
+						"updatedAt": "2014-07-20T17:45:09.279Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f520e5556f0b00ce457c"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:04:14.348Z",
+						"detail_page": "5304fe223cc0aa0b001617a2",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "Get Your Database Under Control",
+						"updatedAt": "2014-07-20T17:45:20.675Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f56ef38e120b00ee6de7"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:04:59.910Z",
+						"detail_page": "533b6a9cfa4c470b00ad4383",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "Key Microsoft Azure Administration Features",
+						"updatedAt": "2014-07-20T17:46:22.653Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f59bf38e120b00ee6de8"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:07:39.915Z",
+						"detail_page": "5347712ee7a67b0b007ada18",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "Oh the Memories! - An Introduction to Browser Memory Leak Testing",
+						"updatedAt": "2014-07-20T17:44:59.068Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f63be5556f0b00ce457d"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:02:18.843Z",
+						"detail_page": "53303ae2dfb0280b00aee8c6",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "Rock Your .NET Coding Standards",
+						"updatedAt": "2014-07-20T17:45:56.914Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f4faf38e120b00ee6de5"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:07:06.876Z",
+						"detail_page": "5304c2d93cc0aa0b00161795",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Sails.js: A High-Productivity Node.js Web App Framework",
+						"updatedAt": "2014-07-20T17:44:35.190Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f61af38e120b00ee6deb"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:03:32.903Z",
+						"detail_page": "52fd57584622320b00b0d746",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"title": "Testing in a chaotic environment",
+						"updatedAt": "2014-07-20T17:45:46.698Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f544f38e120b00ee6de6"
+					},
+					{
+						"conferenceTimeId": "2716001715",
+						"createdAt": "2014-04-22T23:00:48.862Z",
+						"detail_page": "53259f0d84a0770b00aa9cff",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": "Thread Local Storage Execution Contexts for JavaScript with Zone",
+						"updatedAt": "2014-07-20T17:44:09.893Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f4a0e5556f0b00ce457b"
+					}
+				]
+			},
+			{
+				"id": 2718002100,
+				"start": "6:00 PM",
+				"end": "9:00 PM",
+				"conferenceDayId": 2,
+				"activities": [
+					{
+						"conferenceTimeId": "2718002100",
+						"createdAt": "2014-03-26T03:53:19.114Z",
+						"detail_page": "",
+						"icon": "icon-group",
+						"room": "",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "<span>Kick back and have some fun with fellow attendees at the <a href=\"http://www.bigrivergrille.com/\">Big River Grille</a> for an amazing buffet dinner, billiards and great conversation.  Space is limited and requires Premium Ticket option.</span> <ul>\r\n    <li class=\"col-md-6\">\r\n\r\n    </li>\r\n    <li class=\"col-md-6\">\r\n        Presented by <a href=\"http://saucelabs.com\"><img src=\"/images/sponsors/saucelabs-logo.png\"/>\r\n\r\n    </li>\r\n</ul>",
+						"title": "Networking Event",
+						"updatedAt": "2014-07-28T15:16:50.284Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324f2f7cb73c0b00d557ad"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"day": "Thursday : August 28, 2014",
+		"times": [
+			{
+				"id": 2807300830,
+				"start": "7:30 AM",
+				"end": "8:30 AM",
+				"conferenceDayId": 3,
+				"activities": [
+					{
+						"conferenceTimeId": "2807300830",
+						"createdAt": "2014-03-26T03:51:03.193Z",
+						"detail_page": "",
+						"icon": "icon-food",
+						"room": "Exhibit Hall C",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "",
+						"title": "Breakfast",
+						"updatedAt": "2014-07-20T18:49:31.733Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324ea78dfa040b0096ad14"
+					}
+				]
+			},
+			{
+				"id": 2808000915,
+				"start": "8:00 AM",
+				"end": "9:15 AM",
+				"conferenceDayId": 3,
+				"activities": [
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-04-22T23:22:41.276Z",
+						"detail_page": "530e6f17d048f40b003eea6a",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": "AngularJS Advanced Directives",
+						"updatedAt": "2014-07-20T17:47:28.357Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f9c1f38e120b00ee6def"
+					},
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-06-04T01:50:58.155Z",
+						"detail_page": "5304c8873cc0aa0b0016179a",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 16/17",
+						"summary": "",
+						"title": "Build a MVC eCommerce Site in Under 5 Minutes",
+						"updatedAt": "2014-07-20T17:50:48.814Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "538e7b82f72e140b008cddaf"
+					},
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-04-22T23:22:07.851Z",
+						"detail_page": "5304bb7ebe0abe0b0063b5b0",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "Building Custom node.js Modules",
+						"updatedAt": "2014-07-20T17:47:57.362Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f99ff38e120b00ee6dee"
+					},
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-04-22T23:21:12.392Z",
+						"detail_page": "531febe3fef5930b00b32dc2",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "Crawl, Walk, Talk - Windows Phone App Lifecycle and Voice API",
+						"updatedAt": "2014-07-20T17:48:58.318Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f968f38e120b00ee6ded"
+					},
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-04-22T23:19:16.872Z",
+						"detail_page": "53348fe18891bd0b00561229",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Designing with Empathy",
+						"updatedAt": "2014-07-20T17:49:51.561Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f8f4e5556f0b00ce4582"
+					},
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-04-22T23:23:36.550Z",
+						"detail_page": "532a0ec468f1df0b00d48b65",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "Git your .NET On!",
+						"updatedAt": "2014-07-20T17:51:10.576Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f9f8f38e120b00ee6df0"
+					},
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-04-22T23:16:31.003Z",
+						"detail_page": "530d0f2b22e07a0b00a64f01",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Google Apps Script: Google Services as a Platform",
+						"updatedAt": "2014-07-20T17:49:14.496Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f84fe5556f0b00ce457e"
+					},
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-04-22T23:17:15.268Z",
+						"detail_page": "530e72f3d048f40b003eea6d",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "Help! I'm Building a Modern Mobile App. Which Language Do I Choose?",
+						"updatedAt": "2014-07-20T17:50:33.640Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f87be5556f0b00ce457f"
+					},
+					{
+						"userId": "52fd423fe85b3e0b003348f0",
+						"title": "Rock Your Code With Defensive Programming",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"icon": "icon-lightbulb",
+						"conferenceTimeId": "2808000915",
+						"detail_page": "53d8f9dee4b09bb0e7b031f2",
+						"createdAt": "2014-08-01T12:47:59.130Z",
+						"updatedAt": "2014-08-01T12:47:59.130Z",
+						"id": "53db8c7f380af00b0003205e"
+					},
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-04-22T23:19:42.572Z",
+						"detail_page": "5305086e3cc0aa0b001617a6",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "Schema Stories - Moving from SQL to NoSQL",
+						"updatedAt": "2014-07-20T17:49:26.820Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f90ee5556f0b00ce4583"
+					},
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-05-10T18:35:58.699Z",
+						"detail_page": "536164661f58560b00f5f284",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "Sysinternals Primer",
+						"updatedAt": "2014-07-20T17:47:42.361Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536e718e4820fe0b00f89cd6"
+					},
+					{
+						"conferenceTimeId": "2808000915",
+						"createdAt": "2014-04-22T23:18:12.670Z",
+						"detail_page": "533b6b25fa4c470b00ad4384",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "Top Business Reasons for Microsoft Azure",
+						"updatedAt": "2014-07-20T17:51:20.875Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f8b4e5556f0b00ce4580"
+					}
+				]
+			},
+			{
+				"id": 2809301045,
+				"start": "9:30 AM",
+				"end": "10:45 AM",
+				"conferenceDayId": 3,
+				"activities": [
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-04-22T23:29:56.099Z",
+						"detail_page": "53222ab1cc91910b00bd01eb",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "AWS vs. Azure - Which One Is Right For You?",
+						"updatedAt": "2014-07-20T17:53:07.505Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fb74f38e120b00ee6df5"
+					},
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-04-22T01:52:02.556Z",
+						"detail_page": "530028e9ccdd760b0049e029",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": "Becoming an Outlier: Reprogramming the Developer Mind",
+						"updatedAt": "2014-08-09T22:36:40.991Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5355cb42f38e120b00ee6dd6"
+					},
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-05-10T18:37:06.502Z",
+						"detail_page": "5360589d1f58560b00f5f282",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "Building Custom CSS Pattern Libraries",
+						"updatedAt": "2014-07-20T17:51:46.073Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536e71d24820fe0b00f89cd7"
+					},
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-04-22T23:33:31.351Z",
+						"detail_page": "533b10edfa4c470b00ad4381",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "Convince Me – Persuasion Techniques That Get Things Done for the IT Professional",
+						"updatedAt": "2014-07-20T17:52:40.351Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fc4be5556f0b00ce4587"
+					},
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-04-22T23:59:21.783Z",
+						"detail_page": "5304c9013cc0aa0b0016179b",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"title": "Customizing nopCommerce with Plugins & Themes",
+						"updatedAt": "2014-07-20T17:52:55.370Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570259e5556f0b00ce4597"
+					},
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-04-22T23:29:30.402Z",
+						"detail_page": "533b13ed4fa2a60b00459323",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Introduction to MvvmCross",
+						"updatedAt": "2014-07-20T17:53:27.351Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fb5af38e120b00ee6df4"
+					},
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-04-22T23:33:06.541Z",
+						"detail_page": "5306c9bd3f0ba80b00eae53f",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Mastering asynchronous flow control in JavaScript (or how to avoid callback hell)",
+						"updatedAt": "2014-07-20T17:52:31.444Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fc32f38e120b00ee6df9"
+					},
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-04-22T23:30:39.014Z",
+						"detail_page": "533b6afc818ef40b00a54f83",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "Maximizing SQL Server on Microsoft Azure IaaS",
+						"updatedAt": "2014-07-20T17:53:38.924Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fb9ff38e120b00ee6df6"
+					},
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-04-22T23:27:53.899Z",
+						"detail_page": "533478b8fda2880b00f7a876",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "Research-Inspired Extensions in Visual Studio Gallery",
+						"updatedAt": "2014-07-20T17:54:21.140Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356faf9f38e120b00ee6df2"
+					},
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-04-22T23:28:23.799Z",
+						"detail_page": "5347232d7413c20b0025ed72",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "Skip The Rewrite. Take Your Web App Native in Windows 8",
+						"updatedAt": "2014-07-20T17:53:56.454Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fb17f38e120b00ee6df3"
+					},
+					{
+						"conferenceTimeId": "2809301045",
+						"createdAt": "2014-04-22T23:28:58.154Z",
+						"detail_page": "5342fa898f33b90b006fe802",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "Succeeding with open-source software",
+						"updatedAt": "2014-07-20T17:53:16.061Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fb3ae5556f0b00ce4585"
+					}
+				]
+			},
+			{
+				"id": 2811001245,
+				"start": "11:00 AM",
+				"end": "12:45 PM",
+				"conferenceDayId": 3,
+				"activities": [
+					{
+						"conferenceTimeId": "2811001245",
+						"createdAt": "2014-03-26T03:54:05.115Z",
+						"detail_page": "",
+						"icon": "icon-food",
+						"room": "Exhibit Hall C",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "",
+						"title": "Lunch",
+						"updatedAt": "2014-07-20T18:49:21.803Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324f5d7cb73c0b00d557ae"
+					}
+				]
+			},
+			{
+				"id": 2812451415,
+				"start": "12:45 PM",
+				"end": "2:15 PM",
+				"conferenceDayId": 3,
+				"activities": [
+					{
+						"conferenceTimeId": "2812451415",
+						"detail_page": "",
+						"icon": "icon-bullhorn",
+						"room": "Meeting Rooms E, F, G",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "<div class=\"col-md-2\">\r\n<img class=\"img-responsive\" src=\"/images/keynotes/mikehostetler-sm.png\"/>   \r\n</div>                  \r\n<div class=\"col-md-6\">\r\n            <h4>Mike Hostetler</h4>\r\n            <p>Husband, Father, Entrepreneur & Polyglot Technologist. Managing Director of Epic Creative. Passionate about Virtual Working, HTML5, JS, Entrepreneurship, Freedom.</p>\r\n           \r\n        </div>",
+						"title": "Keynote",
+						"updatedAt": "2014-07-25T13:14:09.969Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324b6de4b08a2cfdd338c3"
+					}
+				]
+			},
+			{
+				"id": 2814301545,
+				"start": "2:30 PM",
+				"end": "3:45 PM",
+				"conferenceDayId": 3,
+				"activities": [
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:42:10.088Z",
+						"detail_page": "5329ba7d68f1df0b00d48b61",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "Build and Publish a Windows 8 Game in 1 Day, even without Windows 8",
+						"updatedAt": "2014-07-20T17:55:34.500Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fe52f38e120b00ee6dfe"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-07-17T02:15:08.154Z",
+						"detail_page": "53c7314be4b04af47f662e15",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"title": "CODE Framework WPF MVC/MVVM Projects",
+						"updatedAt": "2014-07-20T17:54:38.206Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53c731acfae61d0b00d4eb23"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:37:33.266Z",
+						"detail_page": "530e729605a0950b00601562",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Designing and Programming Accessible Website and App UIs",
+						"updatedAt": "2014-07-20T17:55:16.260Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fd3de5556f0b00ce458a"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:43:15.450Z",
+						"detail_page": "531525cab115d50b003c758e",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "How to Implement a Hierarchy in SQL Server",
+						"updatedAt": "2014-07-20T17:57:22.529Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fe93f38e120b00ee6dff"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:42:39.049Z",
+						"detail_page": "53381cdd8b668d0b008b4c00",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "Inside Azure Diagnostics",
+						"updatedAt": "2014-07-20T17:57:11.003Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fe6fe5556f0b00ce458d"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:38:14.591Z",
+						"detail_page": "532a0f2968f1df0b00d48b66",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "Isolate Your Tests with Mocks",
+						"updatedAt": "2014-07-20T17:56:33.392Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fd66f38e120b00ee6dfa"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:36:38.945Z",
+						"detail_page": "53126e2937b47d0b00e59ebb",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": "Mongo DB on Azure For Devs",
+						"updatedAt": "2014-07-20T17:56:02.637Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fd06e5556f0b00ce4589"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:39:41.620Z",
+						"detail_page": "5332f6075a313b0b0044f194",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 16/17",
+						"summary": "",
+						"title": "Powering Your Apps with Live Services!",
+						"updatedAt": "2014-07-20T17:56:16.550Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fdbde5556f0b00ce458b"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:38:55.863Z",
+						"detail_page": "533198719b8c8d0b0091d0f7",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "Programming the LeapMotion Controller",
+						"updatedAt": "2014-07-20T17:56:42.770Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fd8ff38e120b00ee6dfb"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:36:12.571Z",
+						"detail_page": "530029e25aff120b0073bf70",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Real World Single Page Apps: A Knockout Case Study",
+						"updatedAt": "2014-07-20T17:55:06.466Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fcece5556f0b00ce4588"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:41:39.601Z",
+						"detail_page": "530507f63cc0aa0b001617a4",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "Riak - Scaling Your Data Safely for Fun and Profit!",
+						"updatedAt": "2014-07-20T17:55:48.272Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fe33e5556f0b00ce458c"
+					},
+					{
+						"conferenceTimeId": "2814301545",
+						"createdAt": "2014-04-22T23:40:11.300Z",
+						"detail_page": "530784fa3f0ba80b00eae541",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "So You Want To Build For Developers?",
+						"updatedAt": "2014-07-20T17:56:58.314Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fddbf38e120b00ee6dfc"
+					}
+				]
+			},
+			{
+				"id": 2816001715,
+				"start": "4:00 PM",
+				"end": "5:15 PM",
+				"conferenceDayId": 3,
+				"activities": [
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-04-22T23:47:27.295Z",
+						"detail_page": "530e6e6505a0950b0060155d",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "AngularJS Directives",
+						"updatedAt": "2014-07-20T17:57:55.661Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356ff8ff38e120b00ee6e02"
+					},
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-04-22T23:48:02.035Z",
+						"detail_page": "532a0f01af7b410b00c53a4c",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "BDD in .NET with SpecFlow",
+						"updatedAt": "2014-07-20T17:59:32.832Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356ffb2f38e120b00ee6e03"
+					},
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-04-22T23:44:37.418Z",
+						"detail_page": "531683ecf21a6d0b00f0d348",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "C# Inception: Using Roslyn and C# Code to Analyze C# Code",
+						"updatedAt": "2014-07-20T17:57:32.773Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356fee5f38e120b00ee6e00"
+					},
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-04-22T23:46:40.503Z",
+						"detail_page": "530d0f7d39e41c0b00a56c46",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "Dart for Developers",
+						"updatedAt": "2014-07-20T17:59:58.233Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356ff60e5556f0b00ce458e"
+					},
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-04-22T23:50:34.834Z",
+						"detail_page": "53041f183cc0aa0b00161780",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "Don't forget to cover your client side",
+						"updatedAt": "2014-07-20T17:59:09.956Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357004af38e120b00ee6e04"
+					},
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-04-22T23:51:10.247Z",
+						"detail_page": "533313ec5a313b0b0044f195",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 16/17",
+						"summary": "",
+						"title": "Introduction to OpenStack and the SDKs",
+						"updatedAt": "2014-07-20T18:00:10.259Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357006ef38e120b00ee6e05"
+					},
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-04-22T23:48:57.881Z",
+						"detail_page": "532910c13d7e050b00e9304b",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Introduction to SQL Server Policy-Based Management",
+						"updatedAt": "2014-07-20T17:59:24.547Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356ffe9e5556f0b00ce458f"
+					},
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-05-10T18:35:01.174Z",
+						"detail_page": "536165341f58560b00f5f285",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "Malware Hunting with the Sysinternals Tools",
+						"updatedAt": "2014-07-20T17:58:58.325Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536e71554820fe0b00f89cd5"
+					},
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-04-22T23:45:13.788Z",
+						"detail_page": "5331e2c79b8c8d0b0091d0fc",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": "Practical Machine Learning – Predicting Things",
+						"updatedAt": "2014-07-20T17:58:34.009Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356ff09f38e120b00ee6e01"
+					},
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-04-22T23:49:31.741Z",
+						"detail_page": "53002aa0ccdd760b0049e02a",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Pragmatic Software Development: Curing the Architecture Astronaut",
+						"updatedAt": "2014-07-20T18:57:00.476Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357000be5556f0b00ce4590"
+					},
+					{
+						"conferenceTimeId": "2816001715",
+						"createdAt": "2014-04-22T23:52:17.406Z",
+						"detail_page": "530508eabe0abe0b0063b5c0",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"title": "Steal All The Good Ideas",
+						"updatedAt": "2014-07-20T17:58:49.134Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535700b1f38e120b00ee6e06"
+					}
+				]
+			},
+			{
+				"id": 2818002100,
+				"start": "7:00 PM",
+				"end": "10:30 PM",
+				"conferenceDayId": 3,
+				"activities": [
+					{
+						"conferenceTimeId": "2818002100",
+						"createdAt": "2014-03-26T03:52:44.919Z",
+						"detail_page": "",
+						"icon": "icon-group",
+						"room": "",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "<span>Meet with fellow attendees at the <a href=\"http://tennesseeaquarium.org\">Tennessee Aquarium</a> to explore the Ocean Journey.  Enjoy dinner, pet a stingray or walk underneath the huge aquarium to see the sharks from below. Space is limited and requires Premium Ticket option.</span>\r\n<ul>\r\n    <li class=\"col-md-6\">\r\n\r\n    </li>\r\n    <li class=\"col-md-6\">\r\n        Presented by <a href=\"http://rackspace.com\"><img src=\"/images/sponsors/rackspace-logo.png\"/>\r\n\r\n    </li>\r\n</ul>",
+						"title": "Networking Event",
+						"updatedAt": "2014-04-24T22:57:01.506Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324f0c7cb73c0b00d557ac"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"day": "Friday : August 29, 2014",
+		"times": [
+			{
+				"id": 2907300830,
+				"start": "7:30 AM",
+				"end": "8:30 AM",
+				"conferenceDayId": 4,
+				"activities": [
+					{
+						"conferenceTimeId": "2907300830",
+						"createdAt": "2014-03-26T03:51:22.943Z",
+						"detail_page": "",
+						"icon": "icon-food",
+						"room": "Exhibit Hall C",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "",
+						"title": "Breakfast",
+						"updatedAt": "2014-07-20T18:49:17.296Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324eba7cb73c0b00d557ab"
+					}
+				]
+			},
+			{
+				"id": 2908000915,
+				"start": "8:00 AM",
+				"end": "9:15 AM",
+				"conferenceDayId": 4,
+				"activities": [
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-04-22T23:54:21.873Z",
+						"detail_page": "5342d9704dbc160b00894ad7",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"title": "Angular Nested Views using angular-ui / ui-router : How to do it",
+						"updatedAt": "2014-07-20T18:02:26.263Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357012df38e120b00ee6e08"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-04-22T23:58:54.639Z",
+						"detail_page": "52fd71cabd9aeb0b004f91d4",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "Bridging Node.js and .NET Using Edge.js",
+						"updatedAt": "2014-07-20T18:01:55.965Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357023ef38e120b00ee6e0d"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-05-10T18:40:55.210Z",
+						"detail_page": "535e804592d5fc0b003a96fb",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "Continuous Delivery With NodeJS and Docker",
+						"updatedAt": "2014-07-20T18:01:07.600Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536e72b71661fe0b009b6077"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-04-22T23:55:32.567Z",
+						"detail_page": "5304c9a8be0abe0b0063b5bb",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 16/17",
+						"summary": "",
+						"title": "From Visual Studio to Android Studio",
+						"updatedAt": "2014-07-20T18:03:29.847Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570174e5556f0b00ce4594"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-04-22T23:58:06.044Z",
+						"detail_page": "531525142654710b00e85721",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "How In-Memory Database Objects Affect Database Design",
+						"updatedAt": "2014-07-20T18:03:20.116Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357020ef38e120b00ee6e0b"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-05-10T22:17:19.599Z",
+						"detail_page": "5361c6bacbc5800b00411cf1",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "I'm So Meta Even This tAlk (ISMETA)",
+						"updatedAt": "2014-07-20T18:03:04.554Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536ea56f4110a70b00aaa2c8"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-05-10T21:39:28.185Z",
+						"detail_page": "535c5194782a6f0b0027ee04",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Javascriptisms: 7 Things You Must Know About JS",
+						"updatedAt": "2014-07-20T18:01:43.542Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536e9c902ba3680b00e36216"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-04-22T23:55:09.312Z",
+						"detail_page": "530e955dd048f40b003eea73",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Migrating to WordPress",
+						"updatedAt": "2014-07-20T18:02:40.218Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357015de5556f0b00ce4593"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-04-22T23:57:40.245Z",
+						"detail_page": "53381d54571a660b00b28d2e",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "Programming Azure Active Directory",
+						"updatedAt": "2014-07-20T18:02:05.166Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535701f4e5556f0b00ce4596"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-05-10T21:46:08.851Z",
+						"detail_page": "535ca175acc7840b007357c4",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": "ReactJS - Rethinking Client Side UI",
+						"updatedAt": "2014-08-04T15:25:17.725Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536e9e204110a70b00aaa2c7"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-04-22T23:56:02.317Z",
+						"detail_page": "53303aa95a1c870b001df9bc",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "Rock Your Technical Interview - Part I",
+						"updatedAt": "2014-08-01T12:43:48.053Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570192f38e120b00ee6e09"
+					},
+					{
+						"conferenceTimeId": "2908000915",
+						"createdAt": "2014-04-22T23:57:09.950Z",
+						"detail_page": "53298efce212e00b0097feec",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "Stubs, Shims, and Mocks oh my! Unit testing with Visual Studio Fakes",
+						"updatedAt": "2014-07-20T18:02:50.196Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535701d5f38e120b00ee6e0a"
+					}
+				]
+			},
+			{
+				"id": 2909301045,
+				"start": "9:30 AM",
+				"end": "10:45 AM",
+				"conferenceDayId": 4,
+				"activities": [
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-04-23T00:03:24.134Z",
+						"detail_page": "5346da107413c20b0025ed71",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "Building Rome In an Hour : The Art of Rapidly Protoyping Websites",
+						"updatedAt": "2014-07-20T18:05:12.417Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357034ce5556f0b00ce459c"
+					},
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-04-23T00:05:28.447Z",
+						"detail_page": "533313224138b20b004ad847",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "Building a Windows CI & CD Environment",
+						"updatedAt": "2014-07-20T18:04:06.296Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535703c8f38e120b00ee6e12"
+					},
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-04-23T00:05:55.747Z",
+						"detail_page": "53322e309b8c8d0b0091d104",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 16/17",
+						"summary": "",
+						"title": "Creating iOS Apps with C# using Xamarin.iOS",
+						"updatedAt": "2014-07-20T18:05:53.352Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535703e3e5556f0b00ce459d"
+					},
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-04-23T00:01:17.625Z",
+						"detail_page": "533720c7fdf85d0b005eff14",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "Elixir: a crisp, new language for the Erlang VM",
+						"updatedAt": "2014-07-20T18:04:16.809Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535702cde5556f0b00ce4598"
+					},
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-04-23T00:04:14.635Z",
+						"detail_page": "5304be1b3cc0aa0b0016178e",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": "Load Testing with Team Foundation Service",
+						"updatedAt": "2014-07-20T18:04:31.584Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357037ef38e120b00ee6e0f"
+					},
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-08-21T10:28:34.226Z",
+						"detail_page": "",
+						"icon": "icon-group",
+						"room": "Main Hall",
+						"summary": "",
+						"title": "Open Spaces",
+						"updatedAt": "2014-08-21T10:29:55.589Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53f5c9d26b84750b00e51341"
+					},
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-04-23T00:03:47.606Z",
+						"detail_page": "5314e951b115d50b003c758d",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "Project requirements and a challenging API forced me to be a better programmer",
+						"updatedAt": "2014-08-01T12:45:41.796Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570363f38e120b00ee6e0e"
+					},
+					{
+						"userId": "52fd423fe85b3e0b003348f0",
+						"title": "Rock Your Technical Interview - Part II",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"icon": "icon-lightbulb",
+						"conferenceTimeId": "2909301045",
+						"detail_page": "53db8ae5e4b0f89a00f363a3",
+						"createdAt": "2014-08-01T12:44:56.924Z",
+						"updatedAt": "2014-08-01T12:44:56.924Z",
+						"id": "53db8bc8380af00b0003205d"
+					},
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-04-23T00:04:38.869Z",
+						"detail_page": "533b10a34fa2a60b00459321",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Top 10 DBA Mistakes on SQL Server",
+						"updatedAt": "2014-07-20T18:06:29.363Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570396f38e120b00ee6e10"
+					},
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-04-23T00:01:43.307Z",
+						"detail_page": "53068bc8f79b1a0b00e9ef20",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Web Runtime Architecture & Performance Deep Dive",
+						"updatedAt": "2014-07-20T18:03:47.091Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535702e7e5556f0b00ce4599"
+					},
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-04-23T00:05:06.318Z",
+						"detail_page": "5319d2782b7add0b00d8e7eb",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"title": "What writing fiction taught me about writing software",
+						"updatedAt": "2014-07-20T18:04:48.137Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535703b2f38e120b00ee6e11"
+					},
+					{
+						"conferenceTimeId": "2909301045",
+						"createdAt": "2014-04-23T00:06:23.130Z",
+						"detail_page": "531ba533a85d290b00212586",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "Windows Azure Data Marketplace",
+						"updatedAt": "2014-07-20T18:06:25.884Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535703fff38e120b00ee6e13"
+					}
+				]
+			},
+			{
+				"id": 2911001300,
+				"start": "11:00 AM",
+				"end": "1:00 PM",
+				"conferenceDayId": 4,
+				"activities": [
+					{
+						"conferenceTimeId": "2911001300",
+						"createdAt": "2014-03-26T03:51:59.779Z",
+						"detail_page": "",
+						"icon": "icon-food",
+						"room": "Exhibit Hall C",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "",
+						"title": "Lunch",
+						"updatedAt": "2014-07-20T18:48:21.383Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324edf8dfa040b0096ad15"
+					}
+				]
+			},
+			{
+				"id": 2913001415,
+				"start": "1:00 PM",
+				"end": "2:15 PM",
+				"conferenceDayId": 4,
+				"activities": [
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-04-23T00:21:22.920Z",
+						"detail_page": "5342d8ac48c0ef0b005f16d2",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Aah I get it ! Responsive design using Angular made easy",
+						"updatedAt": "2014-07-20T18:07:18.638Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570782f38e120b00ee6e1f"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-04-23T00:20:20.156Z",
+						"detail_page": "5310ae0cb70fc90b00de7085",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "Building an HTML5 game",
+						"updatedAt": "2014-07-20T18:08:10.064Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570744f38e120b00ee6e1e"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-04-22T23:50:08.783Z",
+						"detail_page": "5316849fcf75800b0074ffa7",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "Connecting C# to Arduino and the world outside your computer",
+						"updatedAt": "2014-07-20T18:07:58.336Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570030e5556f0b00ce4591"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-04-23T00:19:57.568Z",
+						"detail_page": "53322d689b8c8d0b0091d102",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "Creating Xamarin Bindings for Native iOS Libraries",
+						"updatedAt": "2014-07-20T18:08:45.000Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5357072de5556f0b00ce45a7"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-07-21T21:46:48.778Z",
+						"detail_page": "5303937893d18e0b00529f7e",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 16/17",
+						"summary": "",
+						"title": "Dethroning Grunt: Simple and Effective Builds with Gulp",
+						"updatedAt": "2014-07-21T21:48:29.700Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53cd8a481060450b0009be7e"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-05-10T21:44:23.996Z",
+						"detail_page": "535ca0beacc7840b007357c3",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "ES6 – The Future is Now",
+						"updatedAt": "2014-07-20T18:07:08.499Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536e9db74110a70b00aaa2c6"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-04-23T00:19:29.118Z",
+						"detail_page": "5310b723b70fc90b00de7086",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "Hiding in Plain Sight",
+						"updatedAt": "2014-07-20T18:12:54.205Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570711f38e120b00ee6e1d"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-08-21T10:28:51.937Z",
+						"detail_page": "",
+						"icon": "icon-group",
+						"room": "Main Hall",
+						"summary": "",
+						"title": "Open Spaces",
+						"updatedAt": "2014-08-21T10:30:08.033Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53f5c9e36b84750b00e51342"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-04-23T00:19:08.355Z",
+						"detail_page": "52fd548bcb43480b002abc03",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 9/10",
+						"summary": "",
+						"title": "Real-World Durandal",
+						"updatedAt": "2014-07-20T18:07:49.963Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535706fcf38e120b00ee6e1c"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-04-23T00:18:30.352Z",
+						"detail_page": "533b113ffa4c470b00ad4382",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"title": "Ten Query Tuning Techniques Every SQL Programmer Should Know",
+						"updatedAt": "2014-07-20T18:08:20.797Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535706d6f38e120b00ee6e1b"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-04-23T00:09:26.703Z",
+						"detail_page": "5304c25e3cc0aa0b00161794",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room G",
+						"summary": "",
+						"title": "What's New for Web Developers in Visual Studio 2013",
+						"updatedAt": "2014-07-20T18:12:29.566Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535704b6f38e120b00ee6e15"
+					},
+					{
+						"conferenceTimeId": "2913001415",
+						"createdAt": "2014-04-23T00:18:09.363Z",
+						"detail_page": "5334734cfda2880b00f7a875",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Why You Should Use Lucene-Based Code Search Tools",
+						"updatedAt": "2014-07-20T18:07:39.440Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535706c1f38e120b00ee6e1a"
+					}
+				]
+			},
+			{
+				"id": 2914301545,
+				"start": "2:30 PM",
+				"end": "3:45 PM",
+				"conferenceDayId": 4,
+				"activities": [
+					{
+						"conferenceTimeId": "2914301545",
+						"createdAt": "2014-04-23T00:10:21.010Z",
+						"detail_page": "531fb194fef5930b00b32dbf",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 5",
+						"summary": "",
+						"title": "Agile Planning and Portfolio Management with TFS 2013",
+						"updatedAt": "2014-07-20T18:10:40.126Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535704ede5556f0b00ce45a1"
+					},
+					{
+						"conferenceTimeId": "2914301545",
+						"createdAt": "2014-04-23T00:08:23.979Z",
+						"detail_page": "530f444288e9cd0b00f906b3",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 13",
+						"summary": "",
+						"title": "Building WordPress sites with AngularJS and the RESTful plugin JSON API",
+						"updatedAt": "2014-07-20T18:11:04.699Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570477e5556f0b00ce459f"
+					},
+					{
+						"conferenceTimeId": "2914301545",
+						"createdAt": "2014-04-23T00:12:49.108Z",
+						"detail_page": "53291050e212e00b0097fee8",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room E",
+						"summary": "",
+						"title": "Change Data Capture & Change Tracking Deep Dive",
+						"updatedAt": "2014-07-20T18:10:01.527Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570581e5556f0b00ce45a3"
+					},
+					{
+						"conferenceTimeId": "2914301545",
+						"createdAt": "2014-04-22T23:21:40.184Z",
+						"detail_page": "533a26314fa2a60b0045931a",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 12",
+						"summary": "",
+						"title": "Continuous Integration with Team City",
+						"updatedAt": "2014-07-20T18:11:22.922Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "5356f984e5556f0b00ce4584"
+					},
+					{
+						"conferenceTimeId": "2914301545",
+						"createdAt": "2014-04-23T00:13:50.020Z",
+						"detail_page": "53322e039b8c8d0b0091d103",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 3",
+						"summary": "",
+						"title": "Creating Single Page Applications with Ember.js",
+						"updatedAt": "2014-07-20T18:10:23.607Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535705bee5556f0b00ce45a4"
+					},
+					{
+						"conferenceTimeId": "2914301545",
+						"createdAt": "2014-04-23T00:07:52.896Z",
+						"detail_page": "53056b003cc0aa0b001617aa",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 6",
+						"summary": "",
+						"title": "Game Development with Unity",
+						"updatedAt": "2014-07-20T18:10:49.734Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53570458f38e120b00ee6e14"
+					},
+					{
+						"conferenceTimeId": "2914301545",
+						"createdAt": "2014-04-23T00:09:48.106Z",
+						"detail_page": "533dafe571dbcc0b004f2502",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room F",
+						"summary": "",
+						"title": "Getting the most out of yourself, your team, and your code",
+						"updatedAt": "2014-07-20T18:09:51.690Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "535704ccf38e120b00ee6e16"
+					},
+					{
+						"conferenceTimeId": "2914301545",
+						"createdAt": "2014-05-10T22:08:40.922Z",
+						"detail_page": "536248679e132a0b009e01a7",
+						"icon": "icon-lightbulb",
+						"room": "Meeting Room 7/8",
+						"summary": "",
+						"title": "Taking Control with Machina.js",
+						"updatedAt": "2014-07-20T18:11:14.471Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "536ea3682ba3680b00e36217"
+					},
+					{
+						"userId": "52fd423fe85b3e0b003348f0",
+						"title": "XAML Anti-Patterns",
+						"room": "Meeting Room 4",
+						"summary": "",
+						"icon": "icon-lightbulb",
+						"conferenceTimeId": "2914301545",
+						"detail_page": "53e96529e4b0de919c624cbf",
+						"createdAt": "2014-08-12T00:53:03.126Z",
+						"updatedAt": "2014-08-12T00:53:03.126Z",
+						"id": "53e9656fe29faa0b006f8c52"
+					}
+				]
+			},
+			{
+				"id": 2916001730,
+				"start": "4:00 PM",
+				"end": "5:30 PM",
+				"conferenceDayId": 4,
+				"activities": [
+					{
+						"conferenceTimeId": "2916001730",
+						"detail_page": "",
+						"icon": "icon-bullhorn",
+						"room": "Meeting Rooms E, F, G",
+						"skill_level": "",
+						"speaker": "",
+						"summary": "To Be Announced",
+						"title": "Closing Session",
+						"updatedAt": "2014-07-20T18:48:07.489Z",
+						"userId": "52fd423fe85b3e0b003348f0",
+						"id": "53324d7ce4b08a2cfdd338d5"
+					}
+				]
+			}
+		]
+	}
+]

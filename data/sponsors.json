@@ -1,0 +1,127 @@
+[
+	{
+		"type": "Premier",
+		"visibility": 1,
+		"list": [
+			{
+				"company": "appendTo",
+				"url": "http://www.appendTo.com",
+				"description": "appendTo provides industry-leading front end software development and developer training services. Since 2009, appendTo has developed front-end solutions for companies including Lenovo, Microsoft, Pearson, Purdue Pharma, Pitney Bowes and Time, Inc. In addition to delivering some of the most sophisticated front-end solutions on the market, our corporate clients and independent developers worldwide rely on appendTo for solution delivery and training. appendTo client engagements deliver much more than just software development.",
+				"logo": "/images/sponsors/appendto-logo.png"
+			}
+		]
+	},
+	{
+		"type": "Elite",
+		"visibility": 2,
+		"list": [
+			{
+				"company": "DevExpress",
+				"url": "http://www.devexpress.com",
+				"description": "DevExpress engineers feature-complete UI Controls, enterprise-ready reporting systems, IDE productivity tools and business application frameworks for Visual Studio. Our technologies help you build your best, see complex software with greater clarity, increase your productivity and create stunning touch-enabled applications for Windows, the web and mobile devices without limits or compromise. To learn more and see how you can create business solutions customers expect today and leverage existing skillsets to build next generation applications for tomorrow, visit us online at DevExpress.com.",
+				"logo": "/images/sponsors/devexpress-logo.png"
+			}
+		]
+	},
+	{
+		"type": "Core",
+		"visibility": 3,
+		"list": []
+	},
+	{
+		"type": "Exhibitor",
+		"visibility": 4,
+		"list": [
+			{
+				"company": "TekSystems",
+				"url": "http://www.teksystems.com",
+				"description": "People are at the heart of every successful business initiative. At TEKsystems, we understand people. Every year we deploy over 80,000 IT professionals at 6,000 client sites across North America, Europe and Asia. Our deep insights into human capital management enable us to help our clients achieve their business goals—while optimizing their IT workforce strategies.",
+				"logo": "/images/sponsors/teksystems-logo.png"
+			},
+			{
+				"company": "InformIT",
+				"url": "http://www.informit.com",
+				"description": "InformIT is a one-stop technology learning resource. Our passion is delivering trusted and quality content and resources from the authors, creators, innovators, and leaders of technology and business. Products found on InformIT come from the family of information technology publishers and brands of Pearson, the world's largest learning company.",
+				"logo": "/images/sponsors/informit-logo.jpg"
+			},
+			{
+				"company": "ComponentOne",
+				"url": "http://www.componentone.com",
+				"description": "ComponentOne, a division of GrapeCity, provides customers with innovative UI controls, tools, and enterprise-level reporting, analysis, and spreadsheet controls. Develop rich Windows Forms, WPF, ASP.NET, MVC, Silverlight, Windows Store, Windows Phone, Mobile, and ActiveX applications. Spend less time coding and more time focusing on business logic with ComponentOne’s flagship products—ComponentOne Studio Enterprise, ActiveReports, and Spread.",
+				"logo": "/images/sponsors/componentone-logo.png"
+			},
+			{
+				"company": "Wintellect",
+				"url": "http://www.wintellect.com",
+				"description": "Wintellect was founded by a team of technology experts who are renowned in the industry, with the goal of providing the highest level of custom software development, architecture, and training expertise to our clients. Our mission is to help customers “build better software, faster,” and to do this we have structured our company as a dedicated team of technology experts accompanied by the top tier of software engineers.",
+				"logo": "/images/sponsors/wintellect-logo.gif"
+			},
+			{
+				"company": "CODE Magazine",
+				"url": "http://www.codemag.com/magazine",
+				"description": "CODE Magazine is an advanced technology forum including developers and technical managers focused on providing in-depth information to the development and systems applications community.  Created by developers and primarily serving the developer community, our mission is to provide an intelligent and authoritative filter for the flood of information about established and emerging technologies, and developer tools. We have an obligation to the developer community to provide current, instructional, informative, and lasting information through state-of-the-art, detailed, practical and application articles that our readers can refer to again and again.  Also, with CODE Training, Consulting and Mentoring, CODE Magazine easily provides a broad and valuable reach into the community. ",
+				"logo": "/images/sponsors/CODEMagazine-logo.png"
+			},
+			{
+				"company": "Compuware APM",
+				"url": "http://www.compuwareapm.com",
+				"description": "Compuware Corporation, the technology performance company, makes technology make a difference by providing software, experts and best practices to ensure technology works well and delivers value. Compuware solutions make the world's most important technologies perform at their best for leading organizations worldwide, including 46 of the top 50 Fortune 500 companies and 12 of the top 20 most visited U.S. web sites.",
+				"logo": "/images/sponsors/compuwareapm-logo.png"
+			}
+		]
+	},
+	{
+		"type": "Networking",
+		"visibility": 5,
+		"list": [
+			{
+				"company": "Rackspace",
+				"url": "http://developer.rackspace.com",
+				"description": "Rackspace Hosting (NYSE: RAX) is the open cloud company, delivering open technologies and powering more than 197,000 customers worldwide. Rackspace provides its renowned Fanatical Support® across a broad portfolio of IT products, including Public Cloud, Private Cloud, Hybrid Hosting and Dedicated Hosting. The company offers choice, flexibility and freedom from vendor lock-in. Rackspace has been recognized by Bloomberg BusinessWeek as a Top 100 Performing Technology Company and is featured on Fortune’s list of 100 Best Companies to Work For. Rackspace was positioned in the Leaders Quadrant by Gartner Inc. in the \"2011 Magic Quadrant for Managed Hosting.\" Rackspace is headquartered in San Antonio with offices and data centers around the world.",
+				"logo": "/images/sponsors/rackspace-logo.png"
+			},
+			{
+				"company": "Sauce Labs",
+				"url": "http://saucelabs.com",
+				"description": "Sauce Labs makes testing awesome. Our cloud-based platform helps developers test native & hybrid mobile and web applications across 300+ browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports Selenium, Appium and popular JavaScript unit testing frameworks, and integrates with all the popular programming languages, test frameworks and CI systems. With built-in video recording of every test case, debugging tools, and secure tunneling for local or firewalled testing, Sauce makes running, debugging and scaling test suites quick and easy.  To get started for free, visit saucelabs.com.",
+				"logo": "/images/sponsors/saucelabs-logo.png"
+			}
+		]
+	},
+	{
+		"type": "Supporter",
+		"visibility": 6,
+		"list": [
+			{
+				"company": "OReilly",
+				"url": "http://oreilly.com/code/newsletter.csp",
+				"description": "",
+				"logo": "/images/sponsors/oreilly-logo.jpg"
+			},
+			{
+				"company": "LogicNP Software",
+				"url": "http://www.ssware.com",
+				"description": "",
+				"logo": "/images/sponsors/logicnp-logo.jpg"
+			},
+			{
+				"company": "Chattanooga Technology Council",
+				"url": "http://www.chattanoogatechnologycouncil.org/",
+				"description": "",
+				"logo": "/images/sponsors/ctc-logo.png"
+			},
+			{
+				"company": "Telerik",
+				"url": "http://www.telerik.com/",
+				"description": "",
+				"logo": "/images/sponsors/telerik-logo.png"
+			},
+			{
+				"company": "Avatar Software",
+				"url": "http://www.avatar-soft.com",
+				"description": "",
+				"logo": "/images/sponsors/avatar-logo.png"
+			}
+		]
+	}
+]

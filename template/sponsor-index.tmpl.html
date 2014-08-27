@@ -1,0 +1,13 @@
+<h3>Sponsors</h3>
+<% _.each( sponsors, function ( group ) { %>
+<% if ( group.list.length ) { %>
+	<div class="ui-bar ui-bar-a"><h4><%= group.type %></h4></div>
+
+	<% _.each( group.list, function ( sponsor ) { %>
+	<div class="sponsor">
+		<a href="<%= sponsor.url %>"><img src="<%=sponsor.logo.replace(/\/images/,'/img') %>" /></a>
+		<p><%= sponsor.description %></p>
+	</div>	
+	<% }) %>
+<% } %>
+<% }) %>

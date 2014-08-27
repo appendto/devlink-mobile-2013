@@ -1,0 +1,22 @@
+<h3>Talks</h3>
+
+<ul data-role="listview" 
+	data-autodividers="true"
+	data-inset="true" 
+	data-filter="true"
+	data-filter-placeholder="Search talks...">
+<% _(abstracts).sortBy( function ( a ) { return a.title.toLowerCase() } ).each( function ( activity ) { %>
+	<li>
+	  <a href="/talks/<%= slug(activity.title) %>.html">
+	    <%= activity.title %>
+	    <div class="tag-list">
+	      <% _(activity.tags.sort()).each( function ( tag ) { %>
+	        <span class="tag">
+	          <i class="fa fa-tag"></i> <%= tag %>
+	        </span>
+	      <% }) %>
+	    </div>
+	  </a>
+	</li>
+<% }) %>
+</ul>

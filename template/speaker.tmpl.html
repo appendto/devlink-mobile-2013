@@ -1,0 +1,28 @@
+<img src="<%= speaker.photo %>" alt="<%= speaker.name %>" class="speaker-photo"/>
+
+<h3><%= speaker.name %></h3>
+<p><%= speaker.bio %></p>
+
+<div>
+<% _.each( speaker.social, function( item ) { %>
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="<%= item.url %>"><i class="fa fa-<%= item.type %>"></i></a>
+<%}) %>
+</div>
+
+<ul data-role="listview" data-inset="true">
+<li data-role="list-divider">Talks</li>
+<% _.each( speaker.talks, function ( activity ) { %>
+	<li>
+	  <a href="/talks/<%= activity.slug %>.html">
+	    <%= activity.title %>
+	    <div class="tag-list">
+	      <% _(activity.tags.sort()).each( function ( tag ) { %>
+	        <span class="tag">
+	          <i class="fa fa-tag"></i> <%= tag %>
+	        </span>
+	      <% }) %>
+	    </div>
+	  </a>
+	</li>
+<% }) %>
+</ul>

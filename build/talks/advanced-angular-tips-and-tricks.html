@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>Advanced Angular Tips and Tricks</title>
+
+	<link rel="stylesheet" href="/css/jquery.mobile-1.4.3.min.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
+	<link rel="stylesheet" href="/css/layout.css">
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/amplify.store.min.js"></script>
+	<script src="/js/site.js"></script>
+	<script src="/js/jquery.mobile-1.4.3.min.js"></script>
+</head>
+<body>
+	<div data-role="page">
+		<div data-role="panel" id="menu-" data-theme="b" data-position="right" data-display="push">
+		  <ul data-role="listview">
+		  	<li data-role="list-divider">Agenda</li>
+		  	<li><a href="/agendas/wednesday.html">Wednesday</a></li>
+		  	<li><a href="/agendas/thursday.html">Thursday</a></li>
+		  	<li><a href="/agendas/friday.html">Friday</a></li>
+		  	<li data-role="list-divider">Browse</li>
+		    <li><a href="/speakers/">Speakers</a></li>
+		    <li><a href="/talks/">Talks</a></li>
+		    <li><a href="/tags/">Tags</a></li>
+		    <li><a href="/sponsors/">Sponsors</a></li>
+		    <li><p><a href="appendto.html" data-ajax="false"><img src="/img/appendto.png" alt="appendTo"></a></p></li>
+		  </ul>
+		</div>
+		<div data-role="header" class="ui-header ui-bar-inherit">
+	<a href="#" data-role="button" data-rel="back" data-icon="arrow-l" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Back</a>
+	<h1 class="ui-title"><a href="/index.html" data-ajax="false"><img src="/img/logo.png" alt="devLink"></a></h1>
+	<a href="#menu-" data-role="button" data-icon="bars" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-right ui-btn ui-icon-bars ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Menu</a>
+</div>
+<div data-role="main" class="ui-content">
+	<h2>Advanced Angular Tips and Tricks</h2>
+<p>What happens when two third-party Angular modules export a service with the same name? How do you access scope or dependency injection from a third-party control? How can you always ensure asynchronous code is executed within a digest loop without having to check? Should you store commonly referenced variables in $rootScope or a service? How do you ensure promises are resolved before your controller is invoked? 
+
+In this talk, Jeremy Likness covers advanced tips, tricks, and techniques for building Angular apps. Based on his hands-on experience building large scale enterprise Angular applications with distributed teams of over 20 developers authoring hundreds of services, controllers, filters, and directives across tens of thousands of lines of code, Jeremy shares common problems and straightforward solutions.</p>
+
+
+<div class="tags">
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/angular.html">
+      <i class="fa fa-tag"></i> Angular
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/architect.html">
+      <i class="fa fa-tag"></i> Architect
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/developer.html">
+      <i class="fa fa-tag"></i> Developer
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/enterprise.html">
+      <i class="fa fa-tag"></i> Enterprise
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/intermediate.html">
+      <i class="fa fa-tag"></i> Intermediate
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/javascript.html">
+      <i class="fa fa-tag"></i> Javascript
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/web.html">
+      <i class="fa fa-tag"></i> Web
+    </a>
+  
+</div>
+
+<div>
+<img src="http://www.gravatar.com/avatar/9ce480e4853b49026c274d31f6ea83d2?d=mm&r=pg&s=200" alt="Jeremy Likness" class="speaker-photo"/>
+<h3>Jeremy Likness</h3>
+<p>Jeremy Likness, a principal architect at iVision, Inc., is an experienced entrepreneur and technology executive who has successfully helped ship commercial enterprise software for 20 years. He specializes in catalyzing growth, developing ideas and creating value through delivering software in technical enterprises. His roles as business owner, technology executive and hands-on developer provided unique opportunities to directly impact the bottom line of multiple businesses by helping them grow and increase their organizational capacity while improving operational efficiency. He has worked with several initially small companies like Manhattan Associates and AirWatch before they grew large and experienced their transition from good to great while helping direct vision and strategy to embrace changing technology and markets. Jeremy is capable of quickly adapting to new paradigms and helps technology teams endure change by providing strong leadership, working with team members &#x201C;in the trenches&#x201D; and mentoring them in the soft skills that are key for engineers to bridge the gap between business and technology.</p>
+</div>
+
+
+<div>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://csharperimage.jeremylikness.com/"><i class="fa fa-globe"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://www.linkedin.com/in/jeremylikness"><i class="fa fa-linkedin"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://twitter.com/jeremylikness      "><i class="fa fa-twitter"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://github.com/jeremylikness"><i class="fa fa-github"></i></a>
+
+</div>
+</div>
+	</div>
+</body>
+</html>

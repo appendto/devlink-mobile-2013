@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>BDD in .NET with SpecFlow</title>
+
+	<link rel="stylesheet" href="/css/jquery.mobile-1.4.3.min.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
+	<link rel="stylesheet" href="/css/layout.css">
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/amplify.store.min.js"></script>
+	<script src="/js/site.js"></script>
+	<script src="/js/jquery.mobile-1.4.3.min.js"></script>
+</head>
+<body>
+	<div data-role="page">
+		<div data-role="panel" id="menu-" data-theme="b" data-position="right" data-display="push">
+		  <ul data-role="listview">
+		  	<li data-role="list-divider">Agenda</li>
+		  	<li><a href="/agendas/wednesday.html">Wednesday</a></li>
+		  	<li><a href="/agendas/thursday.html">Thursday</a></li>
+		  	<li><a href="/agendas/friday.html">Friday</a></li>
+		  	<li data-role="list-divider">Browse</li>
+		    <li><a href="/speakers/">Speakers</a></li>
+		    <li><a href="/talks/">Talks</a></li>
+		    <li><a href="/tags/">Tags</a></li>
+		    <li><a href="/sponsors/">Sponsors</a></li>
+		    <li><p><a href="appendto.html" data-ajax="false"><img src="/img/appendto.png" alt="appendTo"></a></p></li>
+		  </ul>
+		</div>
+		<div data-role="header" class="ui-header ui-bar-inherit">
+	<a href="#" data-role="button" data-rel="back" data-icon="arrow-l" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Back</a>
+	<h1 class="ui-title"><a href="/index.html" data-ajax="false"><img src="/img/logo.png" alt="devLink"></a></h1>
+	<a href="#menu-" data-role="button" data-icon="bars" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-right ui-btn ui-icon-bars ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Menu</a>
+</div>
+<div data-role="main" class="ui-content">
+	<h2>BDD in .NET with SpecFlow</h2>
+<p>A key concept of any Agile methodology is communication. It&#x2019;s no longer normal or acceptable for developers to sit and develop applications in isolation from the business. To that end, developers and business domain experts have been trying to find better ways to communicate. While developers tend to speak in terms of &#x201C;code and technology&#x201D; most business domain experts are more comfortable communicating in terms of scenarios, workflows and business rules.
+
+Test Driven Development (TDD) was the first step in getting these two groups to communicate in the same way. Developers could write unit tests that expressed business requirements with the hope that business users could validate that what was being tested was in fact what the desired behavior was. But, unit tests are still code and while it was better, the communication was still stilted and inefficient.
+
+To help this communication new techniques such as Behavior Driven Development (BDD) and Acceptance Test Driven Development (ATDD) have become popular. Along with these new ideas, new tools like SpecFlow have become popular as a means to express unit tests in a way that the business can better understand and validate.
+
+This session will demonstrate how SpecFlow can be leveraged in your BDD or ATDD practices. The Gherkin language and the &#x201C;Given, When, Then&#x201D; paradigm will be explained and you will see how to write tests in a way that business users are not only capable of reading, but can also help you create them.
+</p>
+
+
+<div class="tags">
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/bdd.html">
+      <i class="fa fa-tag"></i> BDD
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/craftsmanship.html">
+      <i class="fa fa-tag"></i> Craftsmanship
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/specflow.html">
+      <i class="fa fa-tag"></i> SpecFlow
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/tdd.html">
+      <i class="fa fa-tag"></i> TDD
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/testing.html">
+      <i class="fa fa-tag"></i> Testing
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/intermediate.html">
+      <i class="fa fa-tag"></i> Intermediate
+    </a>
+  
+</div>
+
+<div>
+<img src="http://www.gravatar.com/avatar/25ddbfa83fef9e5f8f1e15c73d1de9e1?d=mm&r=pg&s=200" alt="James Bender" class="speaker-photo"/>
+<h3>James Bender</h3>
+<p>James is a Developer Advocate for Telerik and has been involved in software development and architecture for 18 years. He has worked as a developer and architect on everything from small, single-user applications to Enterprise-scale, multi-user systems.  His specialties are .NET development and architecture, TDD, SOA, WCF, Web Development, cloud computing, and agile development methodologies. He is an experienced mentor and author. James is a Microsoft MVP, Chairman of the Central Ohio Day of .NET and former President of the Central Ohio .NET Developers Group.  James&apos;s book &quot;Professional Test Driven Development with C#: Developing Real World Applications with TDD&quot; was released in May of 2011. James&apos;s Twitter ID is JamesBender</p>
+</div>
+
+
+<div>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://blog.telerik.com/James-Bender"><i class="fa fa-globe"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://www.linkedin.com/in/JamesBender"><i class="fa fa-linkedin"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://twitter.com/ JamesBender"><i class="fa fa-twitter"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://github.com/JamesBender"><i class="fa fa-github"></i></a>
+
+</div>
+</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "name": "devlink-scrape",
+  "version": "0.0.1",
+  "description": "Get agenda from devLink",
+  "main": "archive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doug Neiner <dneiner@appendto.com>",
+  "license": "Proprietary",
+  "dependencies": {
+    "cli": "~0.6.3",
+    "cheerio": "~0.17.0",
+    "request": "~2.39.0",
+    "tough-cookie": "~0.12.1",
+    "lodash": "~2.4.1",
+    "async": "~0.9.0",
+    "shelljs": "~0.3.0",
+    "canvas": "~1.1.6"
+  }
+}

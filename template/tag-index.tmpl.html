@@ -1,0 +1,17 @@
+<h3>Tags</h3>
+<ul 
+	data-role="listview" 
+	data-inset="true" 
+	data-autodividers="true" 
+	data-filter="true"
+	data-filter-placeholder="Search tags..."
+	class="tag-list">
+	<% _.each( tag_names, function ( tag_name ) { %>
+	<li>
+		<a href="/tags/<%= slug(tag_name) %>.html">
+			<%= tags[tag_name].name %>
+			<span class="ui-li-count"><%= tags[tag_name].talks.length %></span>
+		</a>
+	</li>
+	<% }) %>
+</ul>

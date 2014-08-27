@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>Mastering asynchronous flow control in JavaScript (or how to avoid callback hell)</title>
+
+	<link rel="stylesheet" href="/css/jquery.mobile-1.4.3.min.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
+	<link rel="stylesheet" href="/css/layout.css">
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/amplify.store.min.js"></script>
+	<script src="/js/site.js"></script>
+	<script src="/js/jquery.mobile-1.4.3.min.js"></script>
+</head>
+<body>
+	<div data-role="page">
+		<div data-role="panel" id="menu-" data-theme="b" data-position="right" data-display="push">
+		  <ul data-role="listview">
+		  	<li data-role="list-divider">Agenda</li>
+		  	<li><a href="/agendas/wednesday.html">Wednesday</a></li>
+		  	<li><a href="/agendas/thursday.html">Thursday</a></li>
+		  	<li><a href="/agendas/friday.html">Friday</a></li>
+		  	<li data-role="list-divider">Browse</li>
+		    <li><a href="/speakers/">Speakers</a></li>
+		    <li><a href="/talks/">Talks</a></li>
+		    <li><a href="/tags/">Tags</a></li>
+		    <li><a href="/sponsors/">Sponsors</a></li>
+		    <li><p><a href="appendto.html" data-ajax="false"><img src="/img/appendto.png" alt="appendTo"></a></p></li>
+		  </ul>
+		</div>
+		<div data-role="header" class="ui-header ui-bar-inherit">
+	<a href="#" data-role="button" data-rel="back" data-icon="arrow-l" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Back</a>
+	<h1 class="ui-title"><a href="/index.html" data-ajax="false"><img src="/img/logo.png" alt="devLink"></a></h1>
+	<a href="#menu-" data-role="button" data-icon="bars" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-right ui-btn ui-icon-bars ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Menu</a>
+</div>
+<div data-role="main" class="ui-content">
+	<h2>Mastering asynchronous flow control in JavaScript (or how to avoid callback hell)</h2>
+<p>Asynchronous JavaScript can be very powerful, but also very messy if pains are not taken to tame callback spaghetti. This talk will cover a number of techniques like promises, the async library, and messaging that allow developers to manage the madness. I will also discuss the JavaScript event model and why async functions are critical in the single-threaded node.js environment.</p>
+
+
+<div class="tags">
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/async.html">
+      <i class="fa fa-tag"></i> Async
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/intermediate.html">
+      <i class="fa fa-tag"></i> Intermediate
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/javascript.html">
+      <i class="fa fa-tag"></i> Javascript
+    </a>
+  
+</div>
+
+<div>
+<img src="http://www.gravatar.com/avatar/efc1d756a46c223c59f17653bb81438f?d=mm&r=pg&s=200" alt="Nicholas Cloud" class="speaker-photo"/>
+<h3>Nicholas Cloud</h3>
+<p>For the last decade Nicholas has worked hard to turn his skills into a career. He has developed solutions on both Linux and Windows platforms, programming professionally in JavaScript, C#, Ruby, and PHP. He has extensive experience with web technologies, web services, and Windows desktop development. Nicholas has used more open source libraries than you can shake a stick at, and has contributed to a few as well. He is the founding member of the St. Louis ALT .NET user group, speaks at a variety of user groups and conferences, and writes technical articles and blog posts in his spare time.
+
+Nicholas has a real passion for deconstructing business problems, creating abstract, reusable and flexible solutions, and creating awesome software that rocks.</p>
+</div>
+
+
+<div>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://nicholascloud.com"><i class="fa fa-globe"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://www.linkedin.com/in/nicholascloud"><i class="fa fa-linkedin"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://twitter.com/ nicholascloud   "><i class="fa fa-twitter"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://github.com/nicholascloud"><i class="fa fa-github"></i></a>
+
+</div>
+</div>
+	</div>
+</body>
+</html>

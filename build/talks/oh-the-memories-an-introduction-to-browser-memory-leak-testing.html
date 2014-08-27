@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>Oh the Memories! -  An Introduction to Browser Memory Leak Testing</title>
+
+	<link rel="stylesheet" href="/css/jquery.mobile-1.4.3.min.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
+	<link rel="stylesheet" href="/css/layout.css">
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/amplify.store.min.js"></script>
+	<script src="/js/site.js"></script>
+	<script src="/js/jquery.mobile-1.4.3.min.js"></script>
+</head>
+<body>
+	<div data-role="page">
+		<div data-role="panel" id="menu-" data-theme="b" data-position="right" data-display="push">
+		  <ul data-role="listview">
+		  	<li data-role="list-divider">Agenda</li>
+		  	<li><a href="/agendas/wednesday.html">Wednesday</a></li>
+		  	<li><a href="/agendas/thursday.html">Thursday</a></li>
+		  	<li><a href="/agendas/friday.html">Friday</a></li>
+		  	<li data-role="list-divider">Browse</li>
+		    <li><a href="/speakers/">Speakers</a></li>
+		    <li><a href="/talks/">Talks</a></li>
+		    <li><a href="/tags/">Tags</a></li>
+		    <li><a href="/sponsors/">Sponsors</a></li>
+		    <li><p><a href="appendto.html" data-ajax="false"><img src="/img/appendto.png" alt="appendTo"></a></p></li>
+		  </ul>
+		</div>
+		<div data-role="header" class="ui-header ui-bar-inherit">
+	<a href="#" data-role="button" data-rel="back" data-icon="arrow-l" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Back</a>
+	<h1 class="ui-title"><a href="/index.html" data-ajax="false"><img src="/img/logo.png" alt="devLink"></a></h1>
+	<a href="#menu-" data-role="button" data-icon="bars" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-right ui-btn ui-icon-bars ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Menu</a>
+</div>
+<div data-role="main" class="ui-content">
+	<h2>Oh the Memories! -  An Introduction to Browser Memory Leak Testing</h2>
+<p>Conferences like devLink are a wonderful time filled with many lasting memories. Just like how our brains can be overwhelmed by all of the great experiences at a conference, our web applications can also suffer from trying to remember too many things. Browser memory leaks are an often overlooked, yet important, issue in modern web development that can be overcome with the right techniques.
+
+In this session, we will take an introductory look at the tools and approaches that you can use to identify and investigate browser memory leaks. We will look at common scenarios that cause this problem, as well as patterns to use in your code to avoid leaks. Additionally, we will explore the various options for debugging and profiling leaks across different browsers and platforms. You&apos;ll leave this session with some new memories that will help you start tackling leaks in your web apps today!
+</p>
+
+
+<div class="tags">
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/javascript.html">
+      <i class="fa fa-tag"></i> JavaScript
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/memory.html">
+      <i class="fa fa-tag"></i> Memory
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/profiling.html">
+      <i class="fa fa-tag"></i> Profiling
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/intermediate.html">
+      <i class="fa fa-tag"></i> Intermediate
+    </a>
+  
+</div>
+
+<div>
+<img src="http://www.gravatar.com/avatar/b831d6604aeba08fdc9b9cf4de2b1711?d=mm&r=pg&s=200" alt="Ryan Niemeyer" class="speaker-photo"/>
+<h3>Ryan Niemeyer</h3>
+<p>Ryan Niemeyer has over 15 years of experience in the software industry working with primarily web-based technologies. He loves JavaScript, participating in the open source community, and trying to learn new things everyday. He is always willing to lend a helping hand to anyone that needs it. Since, 2010 Ryan has been involved with the Knockout.js project and writes about his experiences with it on his blog (http://knockmeout.net). He works as an architect for appendTo.</p>
+</div>
+
+
+<div>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://knockmeout.net"><i class="fa fa-globe"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://twitter.com/ RPNiemeyer       "><i class="fa fa-twitter"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://github.com/rniemeyer"><i class="fa fa-github"></i></a>
+
+</div>
+</div>
+	</div>
+</body>
+</html>

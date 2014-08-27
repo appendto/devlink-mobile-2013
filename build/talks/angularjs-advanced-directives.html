@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>AngularJS Advanced Directives</title>
+
+	<link rel="stylesheet" href="/css/jquery.mobile-1.4.3.min.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
+	<link rel="stylesheet" href="/css/layout.css">
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/amplify.store.min.js"></script>
+	<script src="/js/site.js"></script>
+	<script src="/js/jquery.mobile-1.4.3.min.js"></script>
+</head>
+<body>
+	<div data-role="page">
+		<div data-role="panel" id="menu-" data-theme="b" data-position="right" data-display="push">
+		  <ul data-role="listview">
+		  	<li data-role="list-divider">Agenda</li>
+		  	<li><a href="/agendas/wednesday.html">Wednesday</a></li>
+		  	<li><a href="/agendas/thursday.html">Thursday</a></li>
+		  	<li><a href="/agendas/friday.html">Friday</a></li>
+		  	<li data-role="list-divider">Browse</li>
+		    <li><a href="/speakers/">Speakers</a></li>
+		    <li><a href="/talks/">Talks</a></li>
+		    <li><a href="/tags/">Tags</a></li>
+		    <li><a href="/sponsors/">Sponsors</a></li>
+		    <li><p><a href="appendto.html" data-ajax="false"><img src="/img/appendto.png" alt="appendTo"></a></p></li>
+		  </ul>
+		</div>
+		<div data-role="header" class="ui-header ui-bar-inherit">
+	<a href="#" data-role="button" data-rel="back" data-icon="arrow-l" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Back</a>
+	<h1 class="ui-title"><a href="/index.html" data-ajax="false"><img src="/img/logo.png" alt="devLink"></a></h1>
+	<a href="#menu-" data-role="button" data-icon="bars" data-iconpos="notext" data-inline="true" class="ui-link ui-btn-right ui-btn ui-icon-bars ui-btn-icon-notext ui-btn-inline ui-shadow ui-corner-all">Menu</a>
+</div>
+<div data-role="main" class="ui-content">
+	<h2>AngularJS Advanced Directives</h2>
+<p>AngularJS uses directives to &quot;teach HTML new tricks&quot;. Directives extend HTML markup by adding new functionality to existing elements or even creating new elements. The benefit is that we can easily create reusable visual components that perform common functions and define consistent interfaces.  We can also wrap existing controls that exist outside of AngularJS. This talk digs into advanced topics of creating AngularJS directives, including dealing with scope, DOM events, and model data.
+</p>
+
+
+<div class="tags">
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/angularjs.html">
+      <i class="fa fa-tag"></i> AngularJS
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/html.html">
+      <i class="fa fa-tag"></i> HTML
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/javascript.html">
+      <i class="fa fa-tag"></i> Javascript
+    </a>
+  
+    <a class="ui-btn ui-btn-inline" href="/tags/advanced.html">
+      <i class="fa fa-tag"></i> Advanced
+    </a>
+  
+</div>
+
+<div>
+<img src="http://www.gravatar.com/avatar/a01ae0a14040c032003a0e3a0414702a?d=mm&r=pg&s=200" alt="Dave Baskin" class="speaker-photo"/>
+<h3>Dave Baskin</h3>
+<p>Dave Baskin is a Senior Consultant at Wintellect -- a recognized leader in mission critical architecture, design and development. Dave has worked on a variety of large, enterprise web applications, using both the Microsoft and Open Source stacks. He lives in Tennessee with his wife and family.
+</p>
+</div>
+
+
+<div>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://dfbaskin.com"><i class="fa fa-globe"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://twitter.com/dfbaskin "><i class="fa fa-twitter"></i></a>
+
+	<a class="ui-btn ui-btn-inline ui-btn-b ui-corner-all" href="http://github.com/dfbaskin"><i class="fa fa-github"></i></a>
+
+</div>
+</div>
+	</div>
+</body>
+</html>

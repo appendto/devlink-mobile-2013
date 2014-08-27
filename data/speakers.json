@@ -1,0 +1,1754 @@
+{
+	"jason-clark": {
+		"name": "Jason Clark",
+		"bio": "Jason was a Senior Software Consultant for Avatar Software in Brentwood, TN and is now a Senior Software Developer for Tresta in Tallahassee, FL. He loves working in JavaScript, especially with Durandal, Knockout and Sails.js. He has completed 5 production Durandal sites, from Durandal 1.2 - 2.1, has presented on Durandal to the Nashville .NET User Group and is looking forward to meeting Rob Eisenberg.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.riceboyler.com/blog"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/riceboyler"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/riceboyler "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/riceboyler"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/3571d7354ac02212273a690737331904?d=mm&r=pg&s=200",
+		"slug": "jason-clark"
+	},
+	"charles-miller": {
+		"name": "Charles Miller",
+		"bio": "Charles is a Software Engineering Manager at ForceX, Inc. in Clarksville, TN where he manages the development of multiple real-time airborne ISR applications used across multiple military and DoD organizations. He has over 20 years of experience  designing and developing applications across multiple application domain spaces.",
+		"social": [
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/crm1965"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ ww1965 "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/b5b579c518736b2ec0efb3cdfa992758?d=mm&r=pg&s=200",
+		"slug": "charles-miller"
+	},
+	"david-neal": {
+		"name": "David Neal",
+		"bio": "David is a husband, father, geek, musician, motorcyclist, speaker, and software developer living near Chattanooga, TN. He&apos;s currently a Developer Advocate for LeanKit, makers of LeanKit Kanban, an enterprise visual project management tool. David served as president of the Nashville .NET User Group for 2012 and 2013. He is also a high-volume consumer of caffeine and bacon.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://reverentgeek.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/davidneal"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/reverentgeek  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/reverentgeek"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/3ab1249be442027903e1180025340b3f?d=mm&r=pg&s=200",
+		"slug": "david-neal"
+	},
+	"eric-coffman": {
+		"name": "Eric Coffman",
+		"bio": "Eric has been involved in Microsoft based development for 15 years. He spent many years working as a systems administrator and has a unique perspective as a developer working at the intersection of devops. \r\n\r\nHis day job at West Virginia University involves working on a custom learning management system developed in ASP.Net MVC. He also has a few open source projects including AliaSQL and SimpleCRUD. \r\n\r\nRecently he has spent considerable effort working on, developing tools for, and writing about automated deployment. He also likes to build Lego. ",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://sharpcoders.org/"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/www.linkedin.com/in/ericdcoffman/"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ ericdc1"
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/ericdc1"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/bee62a8c96a2c9effcdf3a6ef96b9b0b?d=mm&r=pg&s=200",
+		"slug": "eric-coffman"
+	},
+	"cory-house": {
+		"name": "Cory House",
+		"bio": "Cory is founder of BitNative LLC, an agile software development and training consultancy. He is a Pluralsight author,  INETA speaker, independent consultant, and blogger with with nearly 15 years of experience in full stack software development. As a software architect at VinSolutions, Cory specializes in creating C# .NET and JavaScript based single page applications for the automotive industry. He regularly speaks on clean code, architecture, and software career development at conferences and user groups across the country. Cory is author of &quot;<a href=\"http://pluralsight.com/training/courses/TableOfContents?courseName=writing-clean-code-humans\">Clean Code: Writing Code for Humans</a>&quot; and &quot;<a href=\"http://pluralsight.com/training/courses/TableOfContents?courseName=architecting-applications-dotnet\">Architecting Applications in .NET</a>&quot; on Pluralsight. Cory blogs at <a href=\"http://www.bitnative.com\">bitnative.com</a> and is active on Twitter as @housecor.\r\n",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.bitnative.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/http://www.linkedin.com/profile/view?id=4609328&trk=tab_pro"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/housecor "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/coryhouse"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/09e16ce7b4bc21025c9940f5a167cfa9?d=mm&r=pg&s=200",
+		"slug": "cory-house"
+	},
+	"jay-harris": {
+		"name": "Jay Harris",
+		"bio": "Jay is a code wrangler, software consultant, and president of Arana Software. He has been developing on the web since 1995, when the Blink tag lured him away from Visual Basic 3. With a career focus on user experience, Jay has a passion for practices that improve quality and user experience, such as performance optimization, unit testing, and proper grammar.\r\n\r\nOriginally from Rochester, New York, he and his wife, Amy, have lived in Michigan since 2003. They like Michigan, but still consider themselves tourists, and probably always will.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.cptloadtest.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/jasonharris"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ jayharris"
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/jayharris"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/1318668b99b2d5a3900f3f7758763a69?d=mm&r=pg&s=200",
+		"slug": "jay-harris"
+	},
+	"jonathan-creamer": {
+		"name": "Jonathan Creamer",
+		"bio": " I believe that you cannot ever stop learning which is why I stay active in the development world attending user groups like NashJS, ID of Nashville, and NashDotNet, blogging for FreshBrewedCode.com, Jonathan Creamer.com, Net Tuts, and Tech.pro and scouring Twitter and the interwebs for as much knowledge I can squeeze into my brain. I work as a JavaScript Engineer appendTo and am having a great time developing front end applications in JavaScript and jQuery. I am also an IE userAgent Please feel free to contact me, I love meeting other devs who are passionate about what they do.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://jonathancreamer.com"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/jcreamer898   "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/jcreamer898"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/982085c143104804c4ced3b61864520f?d=mm&r=pg&s=200",
+		"slug": "jonathan-creamer"
+	},
+	"kevin-griffin": {
+		"name": "Kevin Griffin",
+		"bio": "Kevin Griffin has been working as a professional developer since 2006, where his first job was working on components for the Symantec security suites. Kevin is the owner of Griffin Consulting, Inc, CTO of Winsitter, and always looking for new challenges. As an Microsoft ASP.NET MVP and ASPInsider, Kevin spends a lot of time teaching and mentoring developers to learn new technologies and to be better developers. Over four years ago, Kevin started the Hampton Roads .NET Users Group. He serves as the Director of Membership for INETA. You can find Kevin speaking at conferences, code camps, and user groups across the country.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://kevgriffin.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/1kevgriff"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/1kevgriff "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/1kevgriff"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/11ce7889cfbdc9af46389f2c7e3ff015?d=mm&r=pg&s=200",
+		"slug": "kevin-griffin"
+	},
+	"paul-hacker": {
+		"name": "Paul Hacker",
+		"bio": "Paul Hacker has over 10 years of application architecture, design, development, and management expertise in Microsoft technologies.  His strong technical aptitude, excellent communication skills, and dedicated work ethic have enabled him to drive and deliver successful projects and solutions to clients.Paul has a depth of experience in ALM, Process Improvement, and Team Foundation Server.  Having distinguished himself as a leader in the IT industry he has been awarded the distinction of Microsoft MVP in the ALM category every year since 2006.  Prior to 2006 Paul carried the Microsoft MVP distinction in the C# category consistently from 2002 to 2005.Over the years Paul has proven his expertise in Application Lifecycle Management and has demonstrated his professionalism and commitment to the continuous process of managing the life of an application through governance, development and maintenance.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://phacker.wordpress.com/"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/http://www.linkedin.com/profile/view?id=7838554&trk=nav_responsive_tab_profile"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ @pjhacker "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/30cf1ca7a68e54e75d8edb78c7efbbb4?d=mm&r=pg&s=200",
+		"slug": "paul-hacker"
+	},
+	"brian-sullivan": {
+		"name": "Brian Sullivan",
+		"bio": "Brian Sullivan is a principal consultant for Improving Enterprises in Dallas. He got his start in programming maintaining legacy mainframe applications in COBOL at a large trucking company, but quickly realized he needed to find a more productive environment in order to stay sane. He jumped at the opportunity to help transition some of those COBOL applications to .NET, and he hasn&#x2019;t looked back since. He has been working with Microsoft technologies since the .NET 1.0 days, and is interested in introducing modern web development techniques to the clients he works with. Brian is recipient of the Microsoft MVP award in ASP.NET and a graduate of Harding University.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.briansullivan.me"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/bmsullivan "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/bmsullivan"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/a21cd584ff01df83adbf6b3d03d6ecdb?d=mm&r=pg&s=200",
+		"slug": "brian-sullivan"
+	},
+	"gaines-kergosien": {
+		"name": "Gaines Kergosien",
+		"bio": "Gaines Kergosien is a senior solutions architect with Vanick Digital and serves as a board member for the Nashville .NET User Group, the INETA Mentor for TN and speaks at software development conferences throughout the United States. With over 12 years in solutions development using Microsoft technologies, his work includes consulting for such companies as Deloitte, Hospital Corporation of America (HCA), American General (AIG), Lexis Nexis, Gibson Guitars, and Cardinal Healthcare.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://blog.dotnetdude.net"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/gainesk"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ gainesk "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/gaines"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/62f32d0792d0ac1640a67132b00b3c0c?d=mm&r=pg&s=200",
+		"slug": "gaines-kergosien"
+	},
+	"michael-crump": {
+		"name": "Michael Crump",
+		"bio": "Michael Crump is a Microsoft MVP, Pluralsight and MSDN author as well as an international speaker. He works at Telerik with a focus on everything mobile. You can reach him on Twitter @mbcrump or keep up with his blog by visiting michaelcrump.net.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://michaelcrump.net/"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/mbcrump/"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ mbcrump"
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/mbcrump"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/bc4ba4e314fc7f2585957898fcc78a76?d=mm&r=pg&s=200",
+		"slug": "michael-crump"
+	},
+	"grant-fritchey": {
+		"name": "Grant Fritchey",
+		"bio": "Grant Fritchey is a Microsoft SQL Server MVP with over 20 years of experience in IT, including time spent in support and development. He has worked with SQL Server since 6.0, back in 1995. He has developed in Visual Basic, Visual Basic .NET, C# and Java. Grant volunteers at PASS. He has authored books for Apress and Simple-Talk and joined Red Gate Software as a Product Evangelist in January 2011. He has been awarded as a Microsoft MVP since 2009",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.scarydba.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/scarydba/"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ gfritchey   "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/ScaryDBA"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/7eca93bc44a0cb2bcf12602b9f3aaf26?d=mm&r=pg&s=200",
+		"slug": "grant-fritchey"
+	},
+	"alex-moore": {
+		"name": "Alex Moore",
+		"bio": "Alex Moore is a Client Services Engineer at Basho Technologies, where he helps customers and community members solve interesting NoSql and Distributed Systems problems. Formerly a .Net Web Consultant, Alex now spends his days frolicking with functional languages. ",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://alexmoore.io"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/alexnmoore"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/alexmoore "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/alexmoore"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/a98830a754660303ef35d0e8f4bd3cd0?d=mm&r=pg&s=200",
+		"slug": "alex-moore"
+	},
+	"michael-neel": {
+		"name": "Michael Neel",
+		"bio": "Michael C. Neel is an active community leader who organizes the Knoxville Game Design group, co-founder and volunteer at the Technology Cooperative, a non-profit focused on technology access and education, and founder of CodeStock, a developer&apos;s community conference in Knoxville TN.\r\n\r\nIn Michael&apos;s 18 year career as a professional software developer he has developed real-time dashboards, digital media management systems, websites and services, and games for Windows, Mac, Linux, and Xbox.  Michael language experience includes significant time with Python and C#, plus numerous other languages that are not nearly as cool and thus not worth mentioning.\r\n\r\nMichael&apos;s hobbies include writing about and creating videos of games and game design at GameMarx.com, photography, cooking, reading fiction and nonfiction books, and playing guitar.  He is proud to be blessed with three amazing daughters and married to a wife who not only inflates and pops his ego as necessary, but also works with him on his many, many projects.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.vinull.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/vinull"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ViNull    "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/https://bitbucket.org/vinull/"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/62d40699d57955829bf57bf2240892bd?d=mm&r=pg&s=200",
+		"slug": "michael-neel"
+	},
+	"rachel-appel": {
+		"name": "Rachel Appel",
+		"bio": "Rachel is a 20+ year consultant, author, mentor, and former Microsoft employee in the software industry who speaks at top industry conferences such as VSLive!, DevConnections, MIX, CodeStock, and more. During her career, Rachel has worked on projects of all sizes from the smallest of apps to the largest enterprise systems at some of the world&#x2019;s leading companies.  \r\n\r\nRachel&#x2019;s expertise lies within developing solutions that align business and technology focusing on these technologies:\r\n\r\nFrameworks: Full stack ASP.NET [Web Forms, MVC, Web API, SignalR, Web Services] and Full stack WinRT/Windows Store apps with WinJS or XAML/C#.\r\nLanguages: C#, VB.ET, JavaScript, HTML, XML, XAML.\r\nDatabases: SQL development and database administration, SQL Azure\r\nSoftware Practices: Agile coaching, Scrum, full lifecycle process management\r\nOther: Windows Azure, Azure Mobile Services.\r\nMemberships &amp; Awards:\r\n\r\nIE UserAgent\r\nMicrosoft MVP \r\nASPInsider\r\nMicrosoft Certified Trainer\r\nINETA Speakers Bureau\r\nModern Apps Column - MSDN Magazine.\r\n",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://rachelappel.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/rachelappel"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/RachelAppel  "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/3a7e42a3b649a5884633dd186e5cf091?d=mm&r=pg&s=200",
+		"slug": "rachel-appel"
+	},
+	"nicholas-cloud": {
+		"name": "Nicholas Cloud",
+		"bio": "For the last decade Nicholas has worked hard to turn his skills into a career. He has developed solutions on both Linux and Windows platforms, programming professionally in JavaScript, C#, Ruby, and PHP. He has extensive experience with web technologies, web services, and Windows desktop development. Nicholas has used more open source libraries than you can shake a stick at, and has contributed to a few as well. He is the founding member of the St. Louis ALT .NET user group, speaks at a variety of user groups and conferences, and writes technical articles and blog posts in his spare time.\r\n\r\nNicholas has a real passion for deconstructing business problems, creating abstract, reusable and flexible solutions, and creating awesome software that rocks.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://nicholascloud.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/nicholascloud"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ nicholascloud   "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/nicholascloud"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/efc1d756a46c223c59f17653bb81438f?d=mm&r=pg&s=200",
+		"slug": "nicholas-cloud"
+	},
+	"nicholas-quinlan": {
+		"name": "Nicholas Quinlan",
+		"bio": "Hi, I&apos;m Nick. I&apos;m a SendGrid Developer Evangelist. I spend my days with APIs and nights with hackers. I love helping developers and building cool stuff.",
+		"social": [
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/nquinlan"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ YayNickQ "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/nquinlan"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/3755ca23ff26f41eaec2db2c35c0174e?d=mm&r=pg&s=200",
+		"slug": "nicholas-quinlan"
+	},
+	"scott-motte": {
+		"name": "Scott Motte",
+		"bio": "Hacker. @SendGrid. The Future is Bright.\r\n\r\nScott Motte works as a developer evangelist for SendGrid. He likes to code in JS, Ruby, and increasingly Go. He enjoys talking API design and the future of the web. He never liked sparkling water, but he has recently grown fond of it. And finally, he believes the future is bright.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://scottmotte.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/https://www.linkedin.com/in/scottmotte"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ scottmotte   "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/scottmotte"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/7c06e396f6e74d19f1d8744b10d77c57?d=mm&r=pg&s=200",
+		"slug": "scott-motte"
+	},
+	"douglas-starnes": {
+		"name": "Douglas Starnes",
+		"bio": "Douglas Starnes is a polyglot ninja in the Memphis, TN area.  He has spent the past 7 years developing software in multiple languages including C#, Python, JavaScript and more on mobile, cloud and web platforms.  His community involvement includes speaking at conferences such as DevLink, St. Louis Days of .NET, CodePaLOUsa, CodeStock and PyOhio in addition to the .NET and Java User Groups in Memphis.  He is the co-organizer of the Memphis Python User Group (MEMPy) and one of the organizers of PyTennessee, the annual state of Tennessee Python conference.  Douglas is also a founding board member of GeekMemphis, the local technology advisory organization in Memphis.  He can be found on the web at http://douglasstarnes.com and on Twitter at @poweredbyaltnet.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://blog.douglasstarnes.com/"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/douglasastarnes"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/poweredbyaltnet   "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/douglasstarnes"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/b6581975bc8bd550b62cafe04ab8d0c8?d=mm&r=pg&s=200",
+		"slug": "douglas-starnes"
+	},
+	"dave-baskin": {
+		"name": "Dave Baskin",
+		"bio": "Dave Baskin is a Senior Consultant at Wintellect -- a recognized leader in mission critical architecture, design and development. Dave has worked on a variety of large, enterprise web applications, using both the Microsoft and Open Source stacks. He lives in Tennessee with his wife and family.\r\n",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://dfbaskin.com"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/dfbaskin "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/dfbaskin"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/a01ae0a14040c032003a0e3a0414702a?d=mm&r=pg&s=200",
+		"slug": "dave-baskin"
+	},
+	"chuck-catron": {
+		"name": "Chuck Catron",
+		"bio": "I am a software engineer with over 15 years of experience. I love working on the full web stack. I enjoy learning new things and teaching about them. My latest endeavors include anything cloud based. I am currently working on a video series for Packt Publishing called &#x201C;Mastering Kendo UI&#x201D;.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://chilifunfactory.com/chili-blog"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/chuckcatro"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ chuckcatron "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/chuckcatron"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/770069a174544292cc57263e54eec5dd?d=mm&r=pg&s=200",
+		"slug": "chuck-catron"
+	},
+	"david-ruttka": {
+		"name": "David Ruttka",
+		"bio": "David Ruttka has been &quot;making computers do things&quot; since he first saw King&apos;s Quest on a 286 PC in the mid-80&apos;s, but he turned it into a career in the early-00&apos;s. The majority of his experience is on the Microsoft stack, primarily using C#, the .NET Framework, and JavaScript. When he isn&apos;t coding, David enjoys spending time with his family, watching hockey, reading, and playing the occasional video game. David can be found on Twitter @druttka and on his development blog at davidruttka.com.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://davidruttka.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/http://www.linkedin.com/pub/david-ruttka/68/323/8b7"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/druttka "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/druttka"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/93c1ee2ed98a26a5235292e0391e6a2c?d=mm&r=pg&s=200",
+		"slug": "david-ruttka"
+	},
+	"eric-greene": {
+		"name": "Eric Greene",
+		"bio": "Eric Greene is an experienced software developer specializing in .NET and PHP web application development.  He loves to write code and loves to share what he learns with others",
+		"social": [
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/ericwgreene"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/  "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/ae609a185483e13321c59b71f9f5fe86?d=mm&r=pg&s=200",
+		"slug": "eric-greene"
+	},
+	"rob-gillen": {
+		"name": "Rob Gillen",
+		"bio": "Rob is a member of the Intelligent Computing Research Team within the Computational Data Analytics Group at the Oak Ridge National Laboratory. In his role as a research professional, works alongside domain scientists to deliver solutions to complex problems at a national scale. His current research interests include large-scale text analysis, scientific uses of cloud computing, cyber security, and machine learning. At the end of the day, he is a computer nerd who thinks it is cool to work at the home of supercomputing within the US and where they have instruments called &quot;the Spallation Neutron Source&quot;.\r\n\r\nPrior to coming to ORNL 7 years ago, Rob was as a solutions architect for a high-end consulting firm where his work included business and systems analysis, provisioning infrastructures for federal, corporate and service provider environments and general application development. He has many years of experience as a professional developer with clients ranging from service providers in Europe and Japan to corporate and federal customers in the US including spending time as a adjunct member of a Microsoft solutions development team.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://rob.gillenfamily.net"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/gillenrob"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/argodev "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/argodev"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/8d4f80614c7e52516f67aee48dd89a00?d=mm&r=pg&s=200",
+		"slug": "rob-gillen"
+	},
+	"timmy-willison": {
+		"name": "Timmy Willison",
+		"bio": "jQuery Core Team Member and Senior Software Engineer at OpenTable",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://timmywillison.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/http://www.linkedin.com/profile/view?id=57128083"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/timmywil  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/timmywil"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/6b57220ae48e1ac5d02227bdada8a4d6?d=mm&r=pg&s=200",
+		"slug": "timmy-willison"
+	},
+	"mark-greenway": {
+		"name": "Mark Greenway",
+		"bio": "A web developer since the mid &#x2019;90s and a lone dev since the turn of the millenia, Mark has a unique perspective on the problems of programming. From developing &#x201C;The Daily WTF&#x201D; style code in his early days, to independently synthesizing many common design patterns in his progression in a vacuum. Then came a new enlightenment and a realization of the community and its resources. This understanding of the pain of doing things the wrong way, leads to a fresh perspective. A smart sense of humour and some training from professional speakers make sure that any talk will be both interesting and informative",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.markgreenway.net"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/None"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/MarkKGreenway  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/MarkKGreenway"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/580e4599e3cedc5423c35e016ec25da3?d=mm&r=pg&s=200",
+		"slug": "mark-greenway"
+	},
+	"james-carpenter": {
+		"name": "James Carpenter",
+		"bio": "Though he is a geek at heart, James has a very different perspective on how technology should work; it exists for the single purpose of making our lives easier, yet it often does just the opposite.  Technology should not be a burden to use, it should not be slow and those who create it should not make excuses for it.  Technology can do just about anything; the challenge will always be to make it easy to use, easy to understand and easy to love.  As the Director of Technology at MoJo Active, it is his mission to overcome this challenge by developing innovative solutions for each and every project.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.mojoactive.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/jc4rp3nt3r"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/jc4rp3nt3r     "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/jc4rp3nt3r"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/6a83d1a2f313de0c1ec877cee271a3d6?d=mm&r=pg&s=200",
+		"slug": "james-carpenter"
+	},
+	"louis-davidson": {
+		"name": "Louis Davidson",
+		"bio": "Louis Davidson has worked in the IT industry for over 15 years as a corporate database developer and architect. He has been a Microsoft SQL Server MVP for 10 years and has written five books on database design. He has a bachelor&apos;s degree in Computer Science from the University of Tennessee at Chattanooga. You can read more about Louis at http://drsql.org.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://sqlblog.com/blogs/louis_davidson/default.aspx"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/louisdavidson/"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/drsql   "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/4b9891e4c34074810c4f2dbf19d96c73?d=mm&r=pg&s=200",
+		"slug": "louis-davidson"
+	},
+	"eric-potter": {
+		"name": "Eric Potter",
+		"bio": "I am a Software Architect for Aptera Software in Fort Wayne Indiana, working primarily in the .Net platform. I have been developing high quality custom software solutions since 2001. I am also an adjunct professor of computer science at Indiana Tech. I I love to dabble in new and exciting technologies. In my spare time, I love to tinker with Arduino projects. I have an amazing wife and 5 wonderful children.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.humbletoolsmith.com"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/pottereric  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/pottereric"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/5419f3f5fec50cfcfd0c7d4a18ae25ca?d=mm&r=pg&s=200",
+		"slug": "eric-potter"
+	},
+	"tyson-cadenhead": {
+		"name": "Tyson Cadenhead",
+		"bio": "Tyson is a JavaScript Engineer who specializes in crafting large scalable applications using the latest technologies. When he isn&#x2019;t writing code, Tyson enjoys playing guitar, filmmaking, animation, illustration, blogging, gardening, reading books about theology, economics and philosophy, and spending time with his family",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://tysoncadenhead.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/tysoncadenhead"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/tysoncadenhead  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/tysoncadenhead"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/283773207d6e2c2b9f2a86f7088a7328?d=mm&r=pg&s=200",
+		"slug": "tyson-cadenhead"
+	},
+	"chris-gardner": {
+		"name": "Chris Gardner",
+		"bio": "Chris Gardner is the Chief Software Engineer and Architect for T &amp; W Operations, Inc, and a Microsoft Certified Trainer Regional Lead. Tortured by years of contracts that valued buzzwords over results, Chris has developed a true passion for finding solutions that fit the problem, not the technology of the week. Chris received his M.S in Computer Science, B.S. in Mathematics and B.A. in Philosophy from the University of Alabama in Huntsville and is currently a Microsoft Certified Professional Developer, Information Technology Professional and Trainer.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://blog.freestylecoding.com"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/freestylecoder  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/freestylecoder"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/07c6637ac664470851e23dbcc1aa5939?d=mm&r=pg&s=200",
+		"slug": "chris-gardner"
+	},
+	"joe-kunk": {
+		"name": "Joe Kunk",
+		"bio": "Joe Kunk is a five-time Microsoft MVP, three-time president of the Greater Lansing User Group for .NET, and solution developer for Dart Container Corporation of Mason, Michigan. He&apos;s been developing software for over 30 years and has worked in the education, government, financial and manufacturing industries. Joe co-authored the book &quot;Professional DevExpress ASP.NET Controls&quot; (Wrox Programmer to Programmer,). He can be reached via email at joekunk at gmail dotcom.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://jbknet.blogspot.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/www.linkedin.com/pub/joe-kunk/1/609/b92/"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ joekunk "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/JoeKunk"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/d1675ce6d81c7bfd760257d6f94feabc?d=mm&r=pg&s=200",
+		"slug": "joe-kunk"
+	},
+	"randy-pagels": {
+		"name": "Randy Pagels",
+		"bio": "Randy Pagels is a Sr. Developer Technology Specialist and a Developer Platform and Evangelism tools team member covering the Heartland District (MI, OH, KY, TN) for Microsoft.  His expertise includes the Visual Studio IDE, Team Foundation Server, Visual Studio Online, Testing tools, and Lab Management products.  He educates customers to maximize their ALM tools by explaining best practices, installation, and configuration through presentations, workshops, or quick starts.  Prior to Microsoft he worked for 16 years as a developer in the IT area and  has designed and developed many .Net web applications using agile methodologies. Randy is a Microsoft Certified Technology Specialist (MCTS) on Team Foundation Server. For further resource information, please refer to his website teamsystemcafe.net or find him on twitter at @RandyPagels",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.teamsystemcafe.net"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/http://www.linkedin.com/pub/randy-pagels/b/65a/abb"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ RandyPagels "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/f7444e6f3401a9d2284da31d16cf5421?d=mm&r=pg&s=200",
+		"slug": "randy-pagels"
+	},
+	"danny-warren": {
+		"name": "Danny Warren",
+		"bio": "Danny is a Senior Software Engineer at InterKnowlogy in Carlsbad, CA. Danny began acquiring his expertise in software engineering at Neumont University in Salt Lake City, Utah where he graduated with a BSCS. Danny&#x2019;s passion for technology has led him throughout the Microsoft Stack including .NET, C#, XAML, and F#. Danny has an expertise in NUI (The Natural User Interface) having built numerous multi-touch and gesture based interfaces for software applications across a broad spectrum of devices. Currently his passion includes building Metro/WinRT Applications for Windows 8 driven by gesture based interface with the Microsoft Kinect. Danny is a Nokia Champion, Microsoft Certified Professional Developer in .NET 4, and a Microsoft MVP for Client Development. When not building beautiful software, Danny is an outdoorsman and family man. He loves to camp, hike and mountain bike. Follow him on twitter @dannydwarren",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://blogs.interknowlogy.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/dannydwarren"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/dannydwarren "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/dannydwarren"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/f819df615f03f32a463d3207665d26da?d=mm&r=pg&s=200",
+		"slug": "danny-warren"
+	},
+	"josh-lane": {
+		"name": "Josh Lane",
+		"bio": "I&apos;m a Senior Architect for Wintellect in Atlanta, GA. I specialize in architecture, design, implementation, and troubleshooting of enterprise systems in .NET, Node, and Azure. My dog barks too much.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.wintellect.com/blogs/jlane"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/jplane"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/jplane"
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/jplane"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/d91c2acd1f1917c9a908ba0cef44fb3d?d=mm&r=pg&s=200",
+		"slug": "josh-lane"
+	},
+	"lee-brandt": {
+		"name": "Lee Brandt",
+		"bio": "After almost two decades writing software professionally (and a few years unprofessionally before that), Lee Brandt still continues to learn every day. He has led teams in small and large companies and always manages to keep the business needs at the forefront of software development efforts. He speaks internationally about software development, from both a technical and business perspective, and loves to teach others what he learns. Lee writes software in Objective-C, JavaScript and C#&#x2026; mostly. He is a Microsoft Most Valuable Professional in Visual C#, one of the directors of the Kansas City Developer Conference (KCDC), and serves as the Regional Mentor for .Net user groups in Kansas and Missouri. Lee is a decorated Gulf War veteran, a husband, a proud pet parent and loves to play the drums whenever he gets any spare time.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://leebrandt.me"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/leebrandt"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ leebrandt "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/leebrandt"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/935e2f14f71b4007ac901b1edae80a6b?d=mm&r=pg&s=200",
+		"slug": "lee-brandt"
+	},
+	"jeremy-likness": {
+		"name": "Jeremy Likness",
+		"bio": "Jeremy Likness, a principal architect at iVision, Inc., is an experienced entrepreneur and technology executive who has successfully helped ship commercial enterprise software for 20 years. He specializes in catalyzing growth, developing ideas and creating value through delivering software in technical enterprises. His roles as business owner, technology executive and hands-on developer provided unique opportunities to directly impact the bottom line of multiple businesses by helping them grow and increase their organizational capacity while improving operational efficiency. He has worked with several initially small companies like Manhattan Associates and AirWatch before they grew large and experienced their transition from good to great while helping direct vision and strategy to embrace changing technology and markets. Jeremy is capable of quickly adapting to new paradigms and helps technology teams endure change by providing strong leadership, working with team members &#x201C;in the trenches&#x201D; and mentoring them in the soft skills that are key for engineers to bridge the gap between business and technology.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://csharperimage.jeremylikness.com/"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/jeremylikness"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/jeremylikness      "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/jeremylikness"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/9ce480e4853b49026c274d31f6ea83d2?d=mm&r=pg&s=200",
+		"slug": "jeremy-likness"
+	},
+	"kevin-hazzard": {
+		"name": "Kevin Hazzard",
+		"bio": "Kevin Hazzard is a long-time C# MVP who has been serving his clients as a database architect for even longer. He&apos;s the author of Metaprogramming in .NET by Manning Press and a Group Principal at Linchpin People, leaders in the SQL Server database wellness and data integration spaces.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://linchpinpeople.com/blog"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/KevinHazzard"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ KevinHazzard "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/devjourney"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/1bfa9dd2f31b30c11c0dc0de8d623a74?d=mm&r=pg&s=200",
+		"slug": "kevin-hazzard"
+	},
+	"joel-cochran": {
+		"name": "Joel Cochran",
+		"bio": "Joel Cochran is a user experience engineer, web developer, and Lead Developer for WintellectNOW, an on-demand video training service. A Microsoft Client Development MVP and ASPInsider, Joel focuses on ASP.NET MVC, JavaScript, and Windows Azure. He spends an inordinate amount of time on Twitter (@joelcochran) and far less time on his blog http://joelcochran.com.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://joelcochran.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/joelcochran/"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/joelcochran   "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/https://github.com/joelcochran"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/e7c09cd2300e9e4928a25c41825ad2b1?d=mm&r=pg&s=200",
+		"slug": "joel-cochran"
+	},
+	"david-giard": {
+		"name": "David Giard",
+		"bio": "David Giard is a former accountant and a former biochemist, who has been developing solutions using Microsoft technologies for over 2 decades.  Currently, David helps people build solutions in his role as a Microsoft Technical Evangelist. David has been very active in the developer community, speaking at numerous major conferences, code camps, and user groups; helping to lead user groups; and helping to organize conferences and other geek events. He is the host and producer of the mildly popular online TV show Technology and Friends. He is the co-author of the Wrox book Real World .NET, C#, and Silverlight. You can read his latest thoughts at www.DavidGiard.com.  His hobbies include video, photography, sports, and embarrassing his sons.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://davidgiard.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/davidgiard"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/DavidGiard  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/DavidGiard "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/93560aa726daf996fea2aa4a83ccd8d8?d=mm&r=pg&s=200",
+		"slug": "david-giard"
+	},
+	"james-bender": {
+		"name": "James Bender",
+		"bio": "James is a Developer Advocate for Telerik and has been involved in software development and architecture for 18 years. He has worked as a developer and architect on everything from small, single-user applications to Enterprise-scale, multi-user systems.  His specialties are .NET development and architecture, TDD, SOA, WCF, Web Development, cloud computing, and agile development methodologies. He is an experienced mentor and author. James is a Microsoft MVP, Chairman of the Central Ohio Day of .NET and former President of the Central Ohio .NET Developers Group.  James&apos;s book &quot;Professional Test Driven Development with C#: Developing Real World Applications with TDD&quot; was released in May of 2011. James&apos;s Twitter ID is JamesBender",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://blog.telerik.com/James-Bender"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/JamesBender"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ JamesBender"
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/JamesBender"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/25ddbfa83fef9e5f8f1e15c73d1de9e1?d=mm&r=pg&s=200",
+		"slug": "james-bender"
+	},
+	"sergey-barskiy": {
+		"name": "Sergey Barskiy",
+		"bio": "Sergey Barskiy is an architect with Tyler Technologies. He is a Microsoft MVP.  He holds the following certifications: MCPD, MCTS, MCSD for .NET, MCAD for .NET, MCDBA, MCP. He has been working with Microsoft technologies for 15 years.  He is a frequent speaker at various regional and national conferences, such as VS Live, DevLink, CodeStock, and Atlanta Code Camp as well as local user groups.  He is one of the organizers of Atlanta Code Camp and Atlanta Windows Apps users group.  He is also INETA membership mentor for the state of GA.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://DotNetSpeak.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/sergeybarskiy"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ @SergeyBarskiy"
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/SergeyBarskiy"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/a3ba286fcd5698278f981f8a44d5faa8?d=mm&r=pg&s=200",
+		"slug": "sergey-barskiy"
+	},
+	"david-mccarter": {
+		"name": "David McCarter",
+		"bio": "David McCarter is a Microsoft MVP and a software engineer/architect/consultant in San Diego. He is the editor-in-chief of dotNetTips.com... a web site dedicated to helping programmers in all aspects of programming. David has written for programming magazines and has published three books (the latest is &quot;David McCarter&apos;s .NET Coding Standards&quot; available at: http://codingstandards.notlong.com. He is one of the founders and directors of the almost 20 year old San Diego .NET Developers Group (www.sddotnetdg.org). In 2008 David won the INETA Community Excellence Award for his involvement in the .NET community. David is also an inventor of a software printing system that was approved by the US Patient Office in May 2008.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.dotnettips.com"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ @RealDotNetDave"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/5de11948f084c591c086893302f8fd24?d=mm&r=pg&s=200",
+		"slug": "david-mccarter"
+	},
+	"todd-miranda": {
+		"name": "Todd Miranda",
+		"bio": "Todd Miranda is a consultant, trainer, and author. He has been developing on various platforms for over 20 years and has been involved with .NET since it was first released in 2000. He has worked with many of the .NET platforms but focuses primarily on ASP.NET. He is the owner of NxtDimension Solutions and provides consulting and training on the Microsoft stack. Todd has been awarded a Microsoft MVP for the last 7 years. He is the co-founder of the Birmingham .NET User Group and remains active in the development community. He has recorded hundreds of online training videos on Microsoft development topics including security, JavaScript, Silverlight, WPF, Expression and ASP.NET. He is an INETA speaker and regularly presents at user groups, community events, and technical conferences.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.xperimentality.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/toddmiranda"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ tmiranda "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/tmiranda"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/3d31e00034a07a36b4b93aa4c0fceabf?d=mm&r=pg&s=200",
+		"slug": "todd-miranda"
+	},
+	"seth-juarez": {
+		"name": "Seth Juarez",
+		"bio": "Seth Juarez holds a Master&#x2019;s Degree in Computer Science where his field of research was Artificial Intelligence, specifically in the realm of Machine Learning. Seth is the Analytics Program Manager for DevExpress where he specializes in products dealing with data analysis, shaping, and presentation. When he is not working in that area, Seth devotes his time to an open source Machine Learning Library, specifically for .NET, intended to simplify the use of popular machine learning models, as well as complex statistics and linear algebra.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.devexpress.com/seth"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/sethjuarez"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ sethjuarez  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/sethjuarez"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/cc351a7c1ea116d1400349644ad8d66e?d=mm&r=pg&s=200",
+		"slug": "seth-juarez"
+	},
+	"rachel-reese": {
+		"name": "Rachel Reese",
+		"bio": "Rachel Reese is a long-time software engineer and math geek who has recently relocated to Nashville, TN to work with the fabulous folks at Firefly Logic, as well as to be a part of the Nashville functional programming scene. She currently helps run the Nashville Xamarin user group, @NashXam. She previously ran the Burlington, VT functional programming user group, @VTFun, which was a constant source of inspiration to her, and at which she often spoke on F#. She&apos;s also an ASPInsider, an F# MVP, a community enthusiast, one of the founding @lambdaladies, and a Rachii. You can find her on twitter, @rachelreese, or on her blog: rachelree.se.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://rachelree.se"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/rachelreese "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/rachelreese"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/d760ba4eb702da0bbe285df91b75bcad?d=mm&r=pg&s=200",
+		"slug": "rachel-reese"
+	},
+	"brent-schooley": {
+		"name": "Brent Schooley",
+		"bio": "Brent is a Developer Evangelist for Twilio representing the Philadelphia metro.  He is a software developer who has been working with Microsoft technologies since 2004. His interests include client and mobile application development and user experience design with a recent emphasis on iOS and client-side JavaScript frameworks. Other platforms he has worked with include WPF, Silverlight, Windows Forms, Windows Phone, and Windows 8. He has a passion for making people&#x2019;s experiences with software the best that they can possibly be.  Brent is the author of Designing for Windows 8, a Windows 8 design primer from Apress. ",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://about.me/brentschooley"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/brentschooley"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/brentschooley "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/brentschooley"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/aa07242c6fc1a533b81489c2393f76e6?d=mm&r=pg&s=200",
+		"slug": "brent-schooley"
+	},
+	"samidip-basu": {
+		"name": "Samidip Basu",
+		"bio": "Samidip Basu (@samidip) is a technologist, book/Pluralsight author, speaker, Client-Dev Microsoft MVP, believer in software craftsmanship, gadget-lover and Developer Advocate for Telerik. With a long developer background, he now spends much of my time advocating modern web/mobile/cloud development platforms on Microsoft/Telerik stacks. He passionately helps run The Windows Developer User Group (http://thewindowsdeveloperusergroup.com/), labors in M3 Conf (http://m3conf.com/) organization, serves as INETA Secretary (http://www.ineta.org/) and can be found with at-least a couple of hobbyist projects at any time. His spare times call for travel and culinary adventures with the wife. Find out more at http://samidipbasu.com.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://samidipbasu.com/"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/samidip  "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/aeafe5d7249b9003e30b93ff3596cd68?d=mm&r=pg&s=200",
+		"slug": "samidip-basu"
+	},
+	"don-schenck": {
+		"name": "Don Schenck",
+		"bio": "Don Schenck is a Rackspace OpenStack .NET SDK Developer Advocate &#x2013; meaning he writes code, writes about code, speaks at conferences and helps customers. Prior to Rackspace, Don worked across a broad range of industries, from helping pharmaceutical companies track and improve quality to building software to control machines that cut and bend reinforcing steel. Most recently, Don was involved in writing mobile and kiosk applications. When he&#x2019;s not coding or writing or speaking at a conference, he prefers to surf (waves, not the internet), lift weights and whine about things to his longsuffering wife, Patti.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://donv2.blogspot.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/http://www.linkedin.com/pub/don-schenck/0/321/864"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/DonSchenck  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/DonSchenck"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/defb64dc8b9f2eab1079a6dbc4a6d6ab?d=mm&r=pg&s=200",
+		"slug": "don-schenck"
+	},
+	"david-shepherd": {
+		"name": "David Shepherd",
+		"bio": "David Shepherd is a software tools researcher, turned professional tools developer, turned software tools researcher and open source contributor. Inspired by Andi Marcus&apos;s research on &quot;Google-ing source code&quot; he&apos;s recently spent his time developing Sando, a free open source search extension for Visual Studio with over 6000 downloads. You&apos;ll also find him evangelizing the merits of better code search tools at conferences like devLink. He lives and works in the RTP area where he leads ABB&apos;s Software Engineering Research Group.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://davidshepherd.weebly.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/davidcshepherd"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/davidcshepherd "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/davidcshepherd"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/cd941a61885e03ae03a882cbdaebbc5f?d=mm&r=pg&s=200",
+		"slug": "david-shepherd"
+	},
+	"paulmichael-blasucci": {
+		"name": "Paulmichael Blasucci",
+		"bio": "Paulmichael Blasucci is a researcher at Bayard Rock in New York City (though he spends most of his time in Nashville, TN). He uses .NET (and has been since its beta days) as part of his work in such diverse industries as high-end electronics, automated stock trading, and entity resolution research. As a passionate &#x2013; yet pragmatic &#x2013; functional programming enthusiast, he has spent the past several years employing a &quot;functional-first&quot; methodology to develop compelling solutions to a wide range of business problems. He especially enjoys solving challenges in distributed computing, applied linguistics, and heterogeneous enterprise systems. When not working, he may be found answering questions on Stack Overflow, hacking on various open-source projects (check out https://github.com/pblasucci), or taking part in discussions on Microsoft&apos;s &quot;F# Insiders&quot; mailing list.\r\n",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://pblasucci.wordpress.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/http://www.linkdin.com/in/pblasucci"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ pblasucci  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/pblasucci"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/b860f2c5e825f9e777947b50cff3d2a5?d=mm&r=pg&s=200",
+		"slug": "paulmichael-blasucci"
+	},
+	"aaron-gustafson": {
+		"name": "Aaron Gustafson",
+		"bio": "Founder &amp; tech lead of @EasyDesigns, publisher of @StandardsSherpa, author of Adaptive Web Design, and husband to @ShirleyTemper.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://blog.easy-designs.net"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/https://www.linkedin.com/in/aarongustafson"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/AaronGustafson  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/AaronGustafson"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/323311bb4cc5af1a4b2c5c26b4cfc5a3?d=mm&r=pg&s=200",
+		"slug": "aaron-gustafson"
+	},
+	"bryan-hunter": {
+		"name": "Bryan Hunter",
+		"bio": "Bryan Hunter is the CTO of Firefly Logic and a cheerleader at NashFP (Nashville Functional Programmers). He is a Microsoft MVP in F# and a well-known figure in the Erlang community. Bryan has a long obsession with both Lean and functional programming. You can say hi to him on Twitter at @bryan_hunter.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.codeswamp.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/bryanhunter"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/bryan_hunter    "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/bryanhunter"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/f1fcb390d81fffb6350038400716f70f?d=mm&r=pg&s=200",
+		"slug": "bryan-hunter"
+	},
+	"michael-collier": {
+		"name": "Michael Collier",
+		"bio": "Michael Collier serves as a Principal Cloud Architect for Aditi, a Microsoft NSI partner that focuses on cloud computing. He is honored to be one of the first Windows Azure MVPs awarded by Microsoft and is a 2012 Windows Azure MVP of the Year for his extraordinary community contributions.  Michael has had a successful 12-year career at various consulting and technology firms where he was instrumental in leading and developing solutions for a wide range of clients. He has a vast amount of experience in helping companies determine the best strategy for adopting cloud computing, and providing the insight, and hands-on experience to ensure they&#x2019;re successful. Michael is also a respected technology community leader, and can often be found sharing his Windows Azure insights and experiences at regional and national conferences. Follow Michael&#x2019;s experiences with Windows Azure on his blog at www.michaelscollier.com and on Twitter at @MichaelCollier.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.michaelscollier.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/mcollier"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/MichaelCollier  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/mcollier"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/88bb040bfe336c9ccec0f24f706ca109?d=mm&r=pg&s=200",
+		"slug": "michael-collier"
+	},
+	"craig-berntson": {
+		"name": "Craig Berntson",
+		"bio": "Craig is the Chief Software Gardener at Mojo Software Worx in Salt Lake City. He has a passion for community and helping other developers improve their skills and has spoken at developer events across the US, Canada, and Europe and is the co-author of &quot;Continuous Integration in .NET&quot; available from Manning and writes the column &quot;Software Gardening&quot; in .Net Curry magazine. Craig has been named a Microsoft MVP every year since 1996. He is an INETA Community Speaker and a ComponentOne Community Influencer.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://blogs.msmvps.com/craigber"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/http://www.linkedin.com/profile/view?id=2078106"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ craigber "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/d79811cd16cde2a9b53e81c5862c67cd?d=mm&r=pg&s=200",
+		"slug": "craig-berntson"
+	},
+	"kevin-kline": {
+		"name": "Kevin Kline",
+		"bio": "Kevin Kline, a longtime Microsoft SQL Server MVP, is a founder and former president of SQLPASS and the author of SQL in a Nutshell, along with 11 other books. Kline tweets at @kekline, writes for several IT magazines, speaks at dozens of conferences per year, and blogs at http://KevinEKline.com.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://KevinEKline.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/kekline"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/kekline  "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/9e0496575145e8556392715b472c4e5e?d=mm&r=pg&s=200",
+		"slug": "kevin-kline"
+	},
+	"peter-mourfield": {
+		"name": "Peter Mourfield",
+		"bio": "Peter Mourfield has been developing software for 20 years and currently works for TaxSlayer.com, an online income tax preparation web site. He lead the Augusta Developers Guild, and is an ASP Insider. Peter also holds a number of certifications including; Microsoft Certified Professional Developer (MCPD), Microsoft Certified Trainer (MCT), and Certified SCRUM Master.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.mourfield.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/pmourfield"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/pmourfield "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/pmourfield"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/41e139e92663400389c2c9d95a865820?d=mm&r=pg&s=200",
+		"slug": "peter-mourfield"
+	},
+	"mike-mckeown": {
+		"name": "Mike McKeown",
+		"bio": "As a Microsoft Azure Most Valuable Partner (MVP) I live and breathe the Cloud! I hold MS/BS (Magna Cum Laude) degrees in Computer Science, as well as numerous Microsoft certifications. I started out as an OS/2 Developer, and then advanced to Development Manager before joining Microsoft in 1993. While at Microsoft, I thoroughly enjoyed the challenging employment and have held many customer-related roles &#x2013; Senior Consultant, Technical Evangelist, Support Engineer, Technical Trainer, Solutions Architect Integration Engineer, and Senior Programming-Writer. The different job functions and experience this time has given me a unique breadth as well as depth of the IT environment from the view of development, management, infrastructure, sales, and the customer. \r\n\r\nI left Microsoft after almost two decades and moved into the area of Architecture. My passion is to help stakeholders or customers define their business/system requirements, and then apply Windows Azure or Amazon Web Services (AWS) Cloud architecture patterns and best practices to meet those goals. I love to blog (http://www.michaelmckeown.com) about the Azure Cloud! You may someday see me speak at numerous technical conferences. I develop Cloud courseware for Pluralsight in my spare time. And finally... I also served my country for 23 years as a Naval Engineering Duty Officer.\r\n",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.michaelmckeown.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/mike-mckeown/20/b73/389/"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ nwoekcm  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/nwoekcm"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/8011023ce21e698245ae22a5b5ba22c2?d=mm&r=pg&s=200",
+		"slug": "mike-mckeown"
+	},
+	"john-rouda": {
+		"name": "John Rouda",
+		"bio": "John Rouda is an IT Manager/Leader and Computer Science Professor. Currently, he manages a team of web and mobile developers and teaches as an adjunct faculty member at York Technical College and at Winthrop University. John currently has over 50 mobile apps in the Apple Appstore as well as over 20 in the Google Play Marketplace. He holds two master degrees, one in Business Administration and one in Computer Science. Most recently John published his 1st book, &quot;What&apos;s HTML?&quot;\r\n\r\nJohn is married to a wonderful wife and has a beautiful family that he dearly loves. You can find out more about John at http://www.johnrouda.com or follow him on twitter @johnrouda.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.johnrouda.com/"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/johnrouda"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/johnrouda     "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/roudaj"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/d45055041a8cc1dd11639c4911e7a8ea?d=mm&r=pg&s=200",
+		"slug": "john-rouda"
+	},
+	"mitch-harpur": {
+		"name": "Mitch Harpur",
+		"bio": "I am a senior consultant with Wintellect and and an instructor with WintellectNow, an on demand training resource. For close to 20 years I have been developing all sorts of things, so I have been around the block once or twice with several technology stacks, but I continue to love to learn new tricks. I am an Electrical Engineer by profession, but I love and extensively use the technologies that make up the modern web experience today, from the mobile experience in the cloud to the intranet in the enterprise .",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://wintellect.com/blogs/mharpur"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/mitchharpur"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/mitchharpur         "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/https://github.com/mitchharpur"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/43452b77307bd2c9bc3d1d8bce82385e?d=mm&r=pg&s=200",
+		"slug": "mitch-harpur"
+	},
+	"glen-campbell": {
+		"name": "Glen Campbell",
+		"bio": "Glen Campbell is the manager of the Rackspace Developer Relations Group and the lead developer for the php-opencloud library and the little-known Siteframe website framework.\r\n\r\nHis computing experience started in the 1970&apos;s programming the COSMAC ELF and changing tubes in an IBM magnetic ledger card reader.\r\n\r\nHe worked on the OpenStack Compute project, including the integration of Rackspace&apos;s Next Generation Cloud Servers product, and has presented at various conferences since the early 1990&apos;s.\r\n\r\nFormerly a manager and senior architect at Yahoo!, he has experience in building and deploying extremely large websites that sustain massive traffic loads.\r\n\r\nPrior to his involvement with the Internet, he was an IT architect and consultant for numerous data management projects.  He lives in San Antonio, Texas, and is sometimes mistaken for a country and western singer.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://glenc.io"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/5694316"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/glenc "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/gecampbell"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/be4677c2556e6af27a4c1c82dad3393b?d=mm&r=pg&s=200",
+		"slug": "glen-campbell"
+	},
+	"jordan-kasper": {
+		"name": "Jordan Kasper",
+		"bio": "Shortly after it arrived at his home in 1993, Jordan began disassembling his first computer - his mother was not happy. She breathed more easily when he moved from hardware into programming, starting with BASIC. Jordan&apos;s experience includes multiple startups, companies large and small, and one large university. He contributes to a few open source projects and participates in local user groups, barcamps, and hackathons. Jordan&apos;s primary mission for over 10 years has been to use JavaScript, HTML, and CSS to elevate web applications above their desktop rivals. He currently works for appendTo, a leader in front-end software solutions, specializing in JavaScript, jQuery, HTML5 and mobile development. In his down time he enjoys puzzles of all sorts and board games.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://jordankasper.com/blog"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/jordankasper"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/  jakerella  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/jakerella"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/ebeac95da25529f9a9531e83e381652c?d=mm&r=pg&s=200",
+		"slug": "jordan-kasper"
+	},
+	"ryan-niemeyer": {
+		"name": "Ryan Niemeyer",
+		"bio": "Ryan Niemeyer has over 15 years of experience in the software industry working with primarily web-based technologies. He loves JavaScript, participating in the open source community, and trying to learn new things everyday. He is always willing to lend a helping hand to anyone that needs it. Since, 2010 Ryan has been involved with the Knockout.js project and writes about his experiences with it on his blog (http://knockmeout.net). He works as an architect for appendTo.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://knockmeout.net"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ RPNiemeyer       "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/rniemeyer"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/b831d6604aeba08fdc9b9cf4de2b1711?d=mm&r=pg&s=200",
+		"slug": "ryan-niemeyer"
+	},
+	"mike-wood": {
+		"name": "Mike Wood",
+		"bio": "Mike Wood is a Technical Evangelist for Red Gate Software on the Cerebrata Team. He describes himself as a problem solving, outdoorsy, user group founding, dog-loving, blog writing, solution creating, event planning, married, technology speaking, father of one kind of guy. When he&apos;s not living up to that title he&apos;s an avid reader, (horrible) violinist and gamer. Michael is one of the Founding Directors of the Cincinnati .NET User Group as well as the founder of the Cincinnati Software Architecture Special Interest Group.  He is also a Microsoft MVP in Windows Azure. You can catch up with Mike on his blog at http://mvwood.com/blog and on twitter under the handle @mikewo.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://mvwood.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/mikewo"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ mikewo "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/mikewo"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/b9b39ca6817962b90403e34433be32b3?d=mm&r=pg&s=200",
+		"slug": "mike-wood"
+	},
+	"kevin-boles": {
+		"name": "Kevin Boles",
+		"bio": "Kevin is a SQL Server expert, working exclusively with the product since v6.5. With over 20 years of database experience and almost 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. He has been a very successful independent consultant for over 15 years. Kevin is also a very frequent speaker, having presented at countless User Groups and over 75 SQL Saturday events! His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.",
+		"social": [
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/thesqlguru"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ TheSQLGuru "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/TheSQLGuru"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/3d1667b3e37bbde0ad9537b002fa22df?d=mm&r=pg&s=200",
+		"slug": "kevin-boles"
+	},
+	"josh-carroll": {
+		"name": "Josh Carroll",
+		"bio": "Computer geek, husband, father, theologian. I rock out web sites. I work for Wintellect.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://www.technofattie.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/jwcarroll"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/jwcarroll    "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/jwcarroll"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/213ff080fa03648f0b71e4f4658a8046?d=mm&r=pg&s=200",
+		"slug": "josh-carroll"
+	},
+	"jim-cowart": {
+		"name": "Jim Cowart",
+		"bio": "Jim Cowart is a web developer, tragically geeky about JavaScript, HTML5, open source, hybrid mobile development...but he's not a fan of lists, so we'll stop there. Having journeyed through Cold Fusion, an obscure proprietary JavaScript BI implementation, C#, a smidgeon of Erlang (<3 <3 <3) and even spent some time as a data warehouse architect and developer (apparently he lied to us about not liking lists), he's most passionate about connecting with other developers – learning, sharing and promoting patterns and ideas that will make development more productive, enjoyable and empowering. Jim works at LeanKit as their Front End Architect and lives in Chattanooga with his wife and three sons. He will be happy to make epic local restaurant recommendations to any devLink attendees. You can follow him on twitter - @ifandelse.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://freshbrewedcode.com/jimcowart"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/https://www.linkedin.com/in/jamescowart"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ifandelse     "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/ifandelse"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/50f0d186eeb223478981dec5d786233b?d=mm&r=pg&s=200",
+		"slug": "jim-cowart"
+	},
+	"alex-robson": {
+		"name": "Alex Robson",
+		"bio": "Alex is a systems architect and developer who enjoys working on distributed systems where performance and scale matter.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://sharplearningcurve.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/http://www.linkedin.com/pub/alex-robson/4/350/b67/"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ A_Robson    "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/arobson"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/cabac203bf3b11b2f5d30bde7e6835c3?d=mm&r=pg&s=200",
+		"slug": "alex-robson"
+	},
+	"jeremy-mcduffie": {
+		"name": "Jeremy McDuffie",
+		"bio": "Ruby on Rails and front-end developer. I work on Dave Ramsey&apos;s web team (http://developwithpurpose.com) and am co-founder of Resamazing (http://resamazing.com).",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://jmmcduffie.com"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/jmmcduffie "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/jmmcduffie"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/ca9303d3df12d2f163b96de7c2df7e5c?d=mm&r=pg&s=200",
+		"slug": "jeremy-mcduffie"
+	},
+	"michael-wiley": {
+		"name": "Michael Wiley",
+		"bio": "Michael Wiley is a Premier Field Engineer with Microsoft who specializes in Visual Studio Application Lifecycle Management (ALM), Powershell, and Windows/application troubleshooting.  He is a regular technical presenter at local and regional events. Prior to working with Microsoft, Michael was a Microsoft MVP (VB.Net) and a software engineer who delivered solutions in a variety of markets including healthcare, government, financial services, and information management. He is heavily involved in the Developer community and was the Founder and President of the Little Rock .NET User Group for three years, Additionally, he was a cofounder of the Little Rock Tech Expo events, and a former INETA Board Member. Michael has spoken at devLink, TechReady, TechFest, and numerous other events. Michael is also a proud member of the ALM Rangers.  In his spare time Michael enjoys hiking, scuba diving, and creating haunted houses. ",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://blogs.msdn.com/b/willy-peter_schaub/archive/2013/11/14/introducing-the-visual-studio-alm-rangers-michael-wiley.aspx"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/www.linkedin.com/pub/michael-wiley/9/b6a/379"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/    "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/571798e015ef04c6151e61151ddfa1b9?d=mm&r=pg&s=200",
+		"slug": "michael-wiley"
+	},
+	"elijah-manor": {
+		"name": "Elijah Manor",
+		"bio": "Elijah Manor is a Christian and a family man. He works at The Lampo Group (Dave Ramsey) as a front-end web developer. He is a Microsoft Regional Director, Microsoft ASP.NET MVP, ASPInsider, IE userAgent, and a Pluralsight author. He enjoys blogging at http://elijahmanor.com and tweeting (@elijahmanor) about the things he learns.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://elijahmanor.com"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/elijahmanor"
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/elijahmanor"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/fc7253276960c6f0718688e330bca47f?d=mm&r=pg&s=200",
+		"slug": "elijah-manor"
+	},
+	"brian-friesen": {
+		"name": "Brian Friesen",
+		"bio": "Brian Friesen has been pretending to be a developer for the last 8 years and lives in constant fear of being found out. He still can&apos;t believe he was chosen for an MVP Award for C#. As an occasional public speaker, he prefers to talk about things that are slightly out in left field. He lives in Detroit and works for a seriously great company, Quicken Loans.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://randomskunk.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/randomskunk"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/brianfriesen"
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/bfriesen"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/a89dc515ab07c2b1d169e15b94562432?d=mm&r=pg&s=200",
+		"slug": "brian-friesen"
+	},
+	"douglas-neiner": {
+		"name": "Douglas Neiner",
+		"bio": "Doug Neiner is a web developer and designer living in rural Iowa with his wife and five children. He serves as the VP of Products at appendTo, a 100% distributed web development company. ",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://code.dougneiner.com"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/dougneiner"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ dougneiner "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/dcneiner"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/9cde37f47e4a800ea081ea42de8d749a?d=mm&r=pg&s=200",
+		"slug": "douglas-neiner"
+	},
+	"bob-yexley": {
+		"name": "Bob Yexley",
+		"bio": "Disciple of Jesus, husband of Crystal, father of Phoenix and Hunter, software developer, outdoorsman...that&apos;s about all I have time for.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://bob.yexley.net"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ryexley"
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/ryexley"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/3dc66e090945740d88cf86daeb06f9e1?d=mm&r=pg&s=200",
+		"slug": "bob-yexley"
+	},
+	"mike-yeager": {
+		"name": "Mike Yeager",
+		"bio": "Mike is currently the CEO of EPS&apos; Houston office and a skilled .NET developer. Mike excels at evaluating business requirements and turning them into results from development teams. He&apos;s been the Project Lead on many projects at EPS and promotes the use of modern best practices such as the Agile development paradigm, use of design patterns and test-drive and test-first development. Before coming to EPS Mike was a business owner developing a high-profile software business in the leisure industry. He grew the business from 2 employees to over 30 before selling the company and looking for new challenges. Implementation experience includes: .NET, SQL Server, Windows Azure, Microsoft Surface and Visual FoxPro. \r\n",
+		"social": [
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/www.LinkedIn.com/in/MikeEYeager"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/ Twitter.com/MikeYeager "
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/206e1ec70cf82ced14dae4e8d995c4b9?d=mm&r=pg&s=200",
+		"slug": "mike-yeager"
+	},
+	"billy-hollis": {
+		"name": "Billy Hollis",
+		"bio": "Billy Hollis is a software designer and developer with a consulting practice in Nashville, Tennessee. He and his team focus on user experience design, advanced user interface development, rules&#x2013;based architectures, and healthcare systems. He teaches design classes for UX and technical classes on XAML and Windows 8. Look for him on the agenda at major conferences for Microsoft technologies, such as Visual Studio Live and TechEd, usually discussing how developers can get better at crafting user experiences.",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://IDontHave.com/ABlog"
+			},
+			{
+				"type": "linkedin",
+				"url": "http://www.linkedin.com/in/doesntexist"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/billyhollis    "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/billyhollis"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/c4134afc9ad30bd84b725c11ef220275?d=mm&r=pg&s=200",
+		"slug": "billy-hollis"
+	},
+	"josh-bush": {
+		"name": "Josh Bush",
+		"bio": "Josh Bush is a Sr. Software Engineer at Firefly Logic. He has 10 years experience developing software for the healthcare and financial industries and is passionate about web technologies, functional programming, and distributed systems. Josh has developed and maintains a few open source projects which you can find at https://github.com/digitalBush. When he&apos;s not coding, you can find him fixing a leaky faucet around the house or playing legos with his two kids. You can read the occasional blog post from Josh on his website at http://digitalbush.com or follow him on twitter (@digitalBush).",
+		"social": [
+			{
+				"type": "globe",
+				"url": "http://digitalbush.com"
+			},
+			{
+				"type": "twitter",
+				"url": "http://twitter.com/digitalBush  "
+			},
+			{
+				"type": "github",
+				"url": "http://github.com/digitalBush"
+			}
+		],
+		"photo": "http://www.gravatar.com/avatar/65c8031007fba9649471c2647349f981?d=mm&r=pg&s=200",
+		"slug": "josh-bush"
+	}
+}
