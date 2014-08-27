@@ -4,7 +4,6 @@ CACHE MANIFEST
 CACHE:
 index.html
 agenda.html
-agendas/
 agendas/friday.html
 agendas/thursday.html
 agendas/tuesday.html
