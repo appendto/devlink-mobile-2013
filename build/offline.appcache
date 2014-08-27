@@ -4,10 +4,13 @@ CACHE MANIFEST
 CACHE:
 index.html
 agenda.html
+agendas/
 agendas/friday.html
 agendas/thursday.html
 agendas/tuesday.html
 agendas/wednesday.html
+tags/
+speakers/
 speakers/aaron-gustafson.html
 speakers/alex-moore.html
 speakers/alex-robson.html
@@ -87,7 +90,9 @@ speakers/seth-juarez.html
 speakers/timmy-willison.html
 speakers/todd-miranda.html
 speakers/tyson-cadenhead.html
+sponsors/
 sponsors/index.html
+talks/
 talks/aah-i-get-it-responsive-design-using-angular-made-easy.html
 talks/advanced-angular-tips-and-tricks.html
 talks/agile-planning-and-portfolio-management-with-tfs-.html
