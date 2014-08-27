@@ -2,6 +2,19 @@ CACHE MANIFEST
 # v3.04
 
 CACHE:
+css/jquery.mobile-1.4.3.min.css
+css/font-awesome.css
+css/layout.css
+fonts/fontawesome-webfont.eot
+fonts/fontawesome-webfont.svg
+fonts/fontawesome-webfont.ttf
+fonts/fontawesome-webfont.woff
+js/jquery.min.js
+js/amplify.store.min.js
+js/site.js
+js/jquery.mobile-1.4.3.min.js
+img/appendto.png
+img/logo.png
 index.html
 agenda.html
 agendas/friday.html
