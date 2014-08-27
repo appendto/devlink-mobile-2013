@@ -3,7 +3,7 @@
   <input type="checkbox" data-role="flipswitch" class="show-selected" id="show-selected-<%=day.day.split( ' : ').shift().toLowerCase()%>">
 </div>
 <h1><%= day.day.split( ' : ').shift() %> <small><%= day.day.split( ' : ').pop() %></small></h1>
-<ul data-role="listview" class="can-be-selected" data-inset="true">
+<ul data-role="listview" class="can-be-selected">
   <% _.each( day.times, function ( time ) { %>
   <li data-role="list-divider"><%= time.start %> – <%= time.end %></li>
   <% _(time.activities).sortBy('title').each(function( activity ) { %>

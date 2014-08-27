@@ -1,9 +1,14 @@
 <h2><%= abstract.title %></h2>
+<div class="meta-data">
+	<i class="fa fa-fw fa-calendar"></i> <%= abstract.day %><br>
+	<i class="fa fa-fw fa-clock-o"></i> <%= abstract.start %> – <%= abstract.end %><br>
+	<i class="fa fa-fw fa-map-marker"></i> <%= abstract.room %>
+</div>
 <p><%= abstract.summary %></p>
 
 
 <div class="tags">
-  <% _(abstract.tags.sort()).map( function ( tag ) { return tag.indexOf(',') > -1 ? tag.split(/, ?/g) : tag; }).flatten().each( function ( tag ) { %>
+  <% _(abstract.tags.sort()).map( function ( tag ) { return tag.indexOf(',') > -1 ? tag.split(/, */g) : tag; }).flatten().each( function ( tag ) { %>
     <a class="ui-btn ui-btn-inline" href="/tags/<%= slug(tag) %>.html">
       <i class="fa fa-tag"></i> <%= humanize(tag) %>
     </a>

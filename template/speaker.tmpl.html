@@ -15,6 +15,7 @@
 	<li>
 	  <a href="/talks/<%= activity.slug %>.html">
 	    <%= activity.title %>
+	    <br><small><%= activity.room %></small>
 	    <div class="tag-list">
 	      <% _(activity.tags.sort()).each( function ( tag ) { %>
 	        <span class="tag">

@@ -59,6 +59,8 @@ function buildSpeakers() {
 	var speakers = JSON.parse( fs.readFileSync( "./data/speakers.json", "utf-8" ) );
 	var abstracts = JSON.parse( fs.readFileSync( "./data/abstracts.json", "utf-8" ) );
 
+	addRoomToAbstracts( abstracts );
+
 	_.each( abstracts, function ( abstract ) {
 		var speaker = slug( abstract.speaker.name );
 		if ( !speakers[ speaker ].talks ) {
@@ -105,6 +107,7 @@ function buildSponsors(){
 
 function buildTalks() {
 	var abstracts = JSON.parse( fs.readFileSync( "./data/abstracts.json", "utf-8" ) );
+	addRoomToAbstracts( abstracts );
 	function renderTalksIndex() {
 		var templatePath = [ "_layout", "with_layout", "talk-index" ];
 		var data = {
@@ -137,7 +140,7 @@ function buildTags() {
 	_.each( abstracts, function ( abstract ) {
 		var abstract_tags = abstract.tags.map( function ( tag ) {
 			if ( /,/g.test( tag ) ) {
-				return tag.split( /, ?/g )
+				return tag.split( /, */g )
 			}
 			return tag;
 		});
@@ -209,6 +212,23 @@ function buildAgenda() {
 		};
 		var filename = "agendas/" + dayName.toLowerCase() + ".html";
 		outputTemplate( templatePath, data, filename );
+	});
+}
+
+function addRoomToAbstracts( abstracts ) {
+	var agenda = JSON.parse( fs.readFileSync( "./data/agenda.json", "utf-8" ) );
+
+	_.each( agenda, function ( day ) {
+		_.each( day.times, function ( time ) {
+			_.each( time.activities, function ( activity ) {
+				if ( activity.detail_page && abstracts[activity.detail_page] ) {
+					abstracts[activity.detail_page]["day"] = day.day.split( " : ").shift();
+					abstracts[activity.detail_page]["start"] = time["start"];
+					abstracts[activity.detail_page]["end"] = time.end;
+					abstracts[activity.detail_page].room = activity.room;
+				}
+			});
+		});
 	});
 }
 
